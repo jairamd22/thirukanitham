@@ -1,6 +1,5 @@
-# thirumagal
+# Exactpredictions Thirumagal Vedic Astrology Software Beta Version 1.0
 
-Exactpredictions Thirumagal Vedic Astrology Software Beta Version 1.0
 
 To Download
 
