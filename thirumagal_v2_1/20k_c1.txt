@@ -1,0 +1,5 @@
+The get_string_width method allows determining the length of a string in the current font, which is used here to calculate the position and the width of the frame surrounding the title. Then colors are set (via set_draw_color, set_fill_color and set_text_color) and the thickness of the line is set to 1 mm (against 0.2 by default) with set_line_width. Finally, we output the cell (the last parameter to true indicates that the background must be filled).
+
+The method used to print the paragraphs is multi_cell. Each time a line reaches the right extremity of the cell or a carriage return character is met, a line break is issued and a new cell automatically created under the current one. Text is justified by default.
+
+Two document properties are defined: the title (set_title) and the author (set_author). Properties can be viewed by two means. First is to open the document directly with Acrobat Reader, go to the File menu and choose the Document Properties option. The second, also available from the plug-in, is to right-click and select Document Properties.

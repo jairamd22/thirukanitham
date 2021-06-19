@@ -1,0 +1,12 @@
+C:\Users\windows 10\AppData\Roaming\Python\Python38\Scripts
+
+pyuic5 -x -o test.py test.ui
+
+pyuic5 -x -o ep.py ep.ui
+
+pyuic5 -x -o ep_v1.py ep_v1.ui
+
+pyuic5 -x -o thirumagal_v1.py thirumagal_v1.ui
+-----------
+
+https://www.youtube.com/watch?v=-2uyzAqefyE&t=42s

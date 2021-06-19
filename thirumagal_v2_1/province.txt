@@ -1,0 +1,7718 @@
+province
+Badakhshan
+Badghis
+Baghlan
+Baghlan
+Balkh
+Balkh
+Bamyan
+Farah
+Faryab
+Faryab
+Ghazni
+Ghor
+Hilmand
+Hirat
+Hirat
+Jawzjan
+Kabul
+Kandahar
+Kapisa
+Kunar
+Kunduz
+Laghman
+Logar
+Nangarhar
+Nimroz
+Paktika
+Paktya
+Parwan
+Samangan
+Takhar
+Uruzgan
+Wardak
+Zabul
+Finstr?m
+Berat
+Berat
+Dib?r
+Dib?r
+Durr?s
+Durr?s
+Durr?s
+Elbasan
+Elbasan
+Elbasan
+Fier
+Fier
+Gjirokast?r
+Gjirokast?r
+Gjirokast?r
+Kor?
+Kor?
+Kor?
+Kuk?s
+Kuk?s
+"Lezh?
+Rreshen"
+Shkod?r
+"Vlor?
+Vlore"
+Adrar
+Adrar
+Alger
+Annaba
+Batna
+B?char
+B?char
+B?char
+B?ja?a
+Biskra
+Biskra
+Blida
+Bordj Bou Arr?ridj
+Bouira
+Chlef
+Constantine
+Djelfa
+El Bayadh
+Gharda?a
+Gharda?a
+Guelma
+Illizi
+Illizi
+Illizi
+Jijel
+Laghouat
+Mascara
+M?d
+Mostaganem
+M'Sila
+Na?ma
+Oran
+Ouargla
+Ouargla
+Ouargla
+Oum el Bouaghi
+S?tif
+Sidi Bel Abb?s
+Skikda
+Souk Ahras
+Tamanghasset
+Tamanghasset
+Tamanghasset
+T?bessa
+Tiaret
+Tindouf
+Tizi Ouzou
+Tlemcen
+
+
+Bengo
+Bengo
+Benguela
+Benguela
+Benguela
+"Bi?
+Camacupa"
+Cuando Cubango
+Cuando Cubango
+Cuando Cubango
+Cuando Cubango
+Cuando Cubango
+Cuanza Norte
+Cuanza Norte
+Cuanza Sul
+Cuanza Sul
+Cuanza Sul
+Cuanza Sul
+Cunene
+Cunene
+Cunene
+Huambo
+Hu?la
+Hu?la
+Hu?la
+Hu?la
+Luanda
+Lunda Norte
+Lunda Norte
+Lunda Norte
+Lunda Sul
+Lunda Sul
+Lunda Sul
+Malanje
+Moxico
+Moxico
+Moxico
+Moxico
+Moxico
+Namibe
+Namibe
+U?ge
+U?ge
+Zaire
+Zaire
+Zaire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Catamarca
+Catamarca
+Catamarca
+Catamarca
+Chaco
+Chaco
+Chaco
+Chaco
+Chaco
+Chaco
+Chubut
+Chubut
+Chubut
+Chubut
+Chubut
+Chubut
+Chubut
+Chubut
+Chubut
+Chubut
+Chubut
+Chubut
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+Ciudad de Buenos Aires
+C?rdoba
+C?rdoba
+C?rdoba
+C?rdoba
+C?rdoba
+C?rdoba
+C?rdoba
+C?rdoba
+Corrientes
+Corrientes
+Entre R?os
+Entre R?os
+Entre R?os
+Entre R?os
+Formosa
+Formosa
+Formosa
+Formosa
+Jujuy
+Jujuy
+Jujuy
+Jujuy
+Jujuy
+Jujuy
+La Pampa
+La Pampa
+La Pampa
+La Rioja
+La Rioja
+La Rioja
+La Rioja
+Mendoza
+Mendoza
+Mendoza
+Mendoza
+Mendoza
+Misiones
+Neuqu?n
+Neuqu?n
+Neuqu?n
+Neuqu?n
+Neuqu?n
+R?o Negro
+R?o Negro
+R?o Negro
+R?o Negro
+R?o Negro
+R?o Negro
+R?o Negro
+R?o Negro
+R?o Negro
+Salta
+Salta
+Salta
+Salta
+Salta
+Salta
+Salta
+Salta
+Salta
+Salta
+San Juan
+San Luis
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Fe
+Santa Fe
+Santa Fe
+Santa Fe
+Santa Fe
+Santa Fe
+Santa Fe
+Santiago del Estero
+Santiago del Estero
+Santiago del Estero
+Santiago del Estero
+Tierra del Fuego
+Tucum?n
+NULL
+Aragatsotn
+Ararat
+Erevan
+Gegharkunik
+Lori
+Shirak
+Tavush
+Vayots Dzor
+
+Australian Capital Territory
+Australian Capital Territory
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+New South Wales
+Northern Territory
+Northern Territory
+Northern Territory
+Northern Territory
+Northern Territory
+Northern Territory
+Northern Territory
+Northern Territory
+Northern Territory
+Northern Territory
+Northern Territory
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+Queensland
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+South Australia
+Tasmania
+Tasmania
+Tasmania
+Tasmania
+Tasmania
+Tasmania
+Tasmania
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Victoria
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Western Australia
+Burgenland
+K?rnten
+Nieder?sterreich
+Ober?sterreich
+Ober?sterreich
+Salzburg
+Steiermark
+Tirol
+Vorarlberg
+Wien
+?li Bayramli
+Astara
+Baki
+Gadabay
+Ganca
+Goranboy
+G?y?ay
+Nax?ivan
+Oguz
+Qabala
+S?ki
+Sumqayit
+Tovuz
+Tovuz
+Xocali
+Yevlax
+Z?ngilan
+
+Barisal
+Chittagong
+Chittagong
+Dhaka
+Dhaka
+Dhaka
+Dhaka
+Khulna
+Khulna
+Rajshahi
+Rajshahi
+Rajshahi
+Rajshahi
+Sylhet
+Saint Michael
+Brest
+Brest
+Homyel'
+Homyel'
+Hrodna
+Hrodna
+Mahilyow
+Mahilyow
+Minsk
+Minsk
+Minsk
+Vitsyebsk
+Vitsyebsk
+Vitsyebsk
+Antwerp
+Arlon
+Brugge
+Brussels
+Charleroi
+East Flanders
+Hainaut
+Liege
+Limburg
+Namur
+Belize
+Cayo
+Cayo
+Corozal
+Orange Walk
+Stann Creek
+Toledo
+Atakora
+Atlantique
+Borgou
+Donga
+Mono
+Ou?m
+Ou?m
+Zou
+Punakha
+Thimphu
+Thimphu
+Wangdi Phodrang
+Chuquisaca
+Chuquisaca
+Chuquisaca
+Chuquisaca
+Cochabamba
+Cochabamba
+Cochabamba
+Cochabamba
+Cochabamba
+Cochabamba
+El Beni
+El Beni
+El Beni
+El Beni
+El Beni
+La Paz
+La Paz
+La Paz
+La Paz
+La Paz
+La Paz
+La Paz
+La Paz
+La Paz
+La Paz
+La Paz
+La Paz
+Oruro
+Oruro
+Oruro
+Pando
+"Potos?
+Uncia"
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Cruz
+Santa Cruz
+NULL
+Tarija
+Tarija
+Tarija
+Tarija
+Herzegovina-Neretva
+Sarajevo
+Serbian Republic
+Serbian Republic
+Tuzla
+Zenica-Doboj
+Central
+Central
+Central
+Central
+Central
+Central
+Ghanzi
+Kgalagadi
+Kgalagadi
+Kgalagadi
+Kgatleng
+Kweneng
+North-West
+North-West
+North-West
+North-West
+North-West
+South-East
+South-East
+Southern
+Acre
+Acre
+Acre
+Alagoas
+Alagoas
+Alagoas
+Alagoas
+Alagoas
+"Amap?
+Laranjal do Jari"
+Amazonas
+Amazonas
+Amazonas
+Amazonas
+Amazonas
+Amazonas
+Amazonas
+Amazonas
+Amazonas
+Amazonas
+Amazonas
+Amazonas
+Amazonas
+Amazonas
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+Bahia
+"Cear?
+Russas"
+Esp?rito Santo
+Esp?rito Santo
+Esp?rito Santo
+Esp?rito Santo
+Esp?rito Santo
+Goi?s
+Goi?s
+Goi?s
+Goi?s
+Goi?s
+Goi?s
+Goi?s
+Goi?s
+Goi?s
+Goi?s
+Goi?s
+Goi?s
+Goi?s
+Goi?s
+Goi?s
+Goi?s
+Goi?s
+Maranh?o
+Maranh?o
+Maranh?o
+Maranh?o
+Maranh?o
+Maranh?o
+Maranh?o
+Maranh?o
+Maranh?o
+Maranh?o
+Maranh?o
+Maranh?o
+Maranh?o
+Maranh?o
+Maranh?o
+Maranh?o
+Maranh?o
+NULL
+Maranh?o
+Mato Grosso
+Mato Grosso
+Mato Grosso
+Mato Grosso
+Mato Grosso
+Mato Grosso
+Mato Grosso
+Mato Grosso
+Mato Grosso
+Mato Grosso
+Mato Grosso
+Mato Grosso
+Mato Grosso do Sul
+Mato Grosso do Sul
+Mato Grosso do Sul
+Mato Grosso do Sul
+Mato Grosso do Sul
+Mato Grosso do Sul
+Mato Grosso do Sul
+Mato Grosso do Sul
+Mato Grosso do Sul
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+Minas Gerais
+"Par?
+Portel"
+Para?ba
+Para?ba
+"Paran?
+Palmas"
+Pernambuco
+Pernambuco
+Pernambuco
+Pernambuco
+Pernambuco
+Pernambuco
+Pernambuco
+Pernambuco
+Pernambuco
+Pernambuco
+Pernambuco
+Pernambuco
+"Piau?
+Barras"
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio de Janeiro
+Rio Grande do Norte
+Rio Grande do Norte
+Rio Grande do Norte
+Rio Grande do Norte
+Rio Grande do Norte
+Rio Grande do Norte
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rio Grande do Sul
+Rond?nia
+Rond?nia
+Rond?nia
+Rond?nia
+Rond?nia
+Rond?nia
+Rond?nia
+Rond?nia
+Rond?nia
+Roraima
+Roraima
+Santa Catarina
+Santa Catarina
+Santa Catarina
+Santa Catarina
+Santa Catarina
+Santa Catarina
+Santa Catarina
+Santa Catarina
+Santa Catarina
+Santa Catarina
+Santa Catarina
+Santa Catarina
+Santa Catarina
+Santa Catarina
+Santa Catarina
+Santa Catarina
+Santa Catarina
+Santa Catarina
+Santa Catarina
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+S?o Paulo
+Sergipe
+Sergipe
+Tocantins
+Tocantins
+Tocantins
+Tocantins
+Tocantins
+Tocantins
+Brunei and Muara
+Burgas
+Dobrich
+Grad Sofiya
+Haskovo
+Kyustendil
+Lovech
+Pernik
+Pleven
+Plovdiv
+Razgrad
+Ruse
+Shumen
+Sliven
+Stara Zagora
+Varna
+Veliko Tarnovo
+Vratsa
+Banwa
+Baz?ga
+Bougouriba
+Boulgou
+"Boulkiemd?
+Zorgo"
+Gnagna
+Gourma
+Houet
+Kadiogo
+K?n?dougou
+"Komo?
+Nouna"
+Kouritenga
+Mou Houn
+Nahouri
+Namentenga
+Oubritenga
+Oudalan
+"Passor?
+Gaoua"
+"Sangui?
+Kaya"
+S?no
+Sissili
+Soum
+Sourou
+Tapoa
+Yagha
+Yatenga
+Ziro
+Zoundw?ogo
+Bubanza
+Bujumbura Mairie
+Bururi
+Cankuzo
+Karuzi
+Kayanza
+Kirundo
+Makamba
+Muramvya
+Muramvya
+Muyinga
+Ngozi
+Rutana
+Ruyigi
+B?nt?ay M?anchey
+Batd?mb?ng
+K?mp?ng Cham
+K?mp?ng Chhnang
+K?mp?ng Sp?
+K?mp?ng Thum
+"K?mp?t
+Krong Koh Kong"
+Kr?ch?h
+M?nd?l Kiri
+Phnom Penh
+Pouthisat
+Preah Vih?ar
+Prey V?ng
+R?t?n?kiri
+Siemr?ab
+St?ng Tr?ng
+Svay Rieng
+Tak?v
+Adamaoua
+Adamaoua
+Adamaoua
+Adamaoua
+Centre
+Centre
+Centre
+Centre
+Est
+Est
+Est
+Est
+Extr?me-Nord
+Littoral
+Littoral
+Littoral
+Nord
+Nord
+Nord
+Nord-Ouest
+Nord-Ouest
+Nord-Ouest
+Ouest
+Ouest
+Ouest
+Sud
+Sud
+Sud-Ouest
+Sud-Ouest
+Sud-Ouest
+Sud-Ouest
+Alberta
+Alberta
+Alberta
+Alberta
+Alberta
+Alberta
+Alberta
+Alberta
+Alberta
+Alberta
+Alberta
+Alberta
+Alberta
+Alberta
+Alberta
+Alberta
+Alberta
+Alberta
+Alberta
+Alberta
+Alberta
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+British Columbia
+Manitoba
+Manitoba
+Manitoba
+Manitoba
+Manitoba
+Manitoba
+Manitoba
+Manitoba
+Manitoba
+Manitoba
+Manitoba
+Manitoba
+Manitoba
+Manitoba
+Manitoba
+Manitoba
+Manitoba
+Manitoba
+Manitoba
+Manitoba
+New Brunswick
+New Brunswick
+New Brunswick
+New Brunswick
+New Brunswick
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Newfoundland and Labrador
+Northwest Territories
+Northwest Territories
+Northwest Territories
+Northwest Territories
+Northwest Territories
+Northwest Territories
+Northwest Territories
+Northwest Territories
+Northwest Territories
+Northwest Territories
+Northwest Territories
+Northwest Territories
+Northwest Territories
+Northwest Territories
+Nova Scotia
+Nova Scotia
+Nova Scotia
+Nova Scotia
+Nova Scotia
+Nova Scotia
+Nova Scotia
+Nova Scotia
+Nova Scotia
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Nunavut
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Ontario
+Prince Edward Island
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Qu?bec
+Saskatchewan
+Saskatchewan
+Saskatchewan
+Saskatchewan
+Saskatchewan
+Saskatchewan
+Saskatchewan
+Saskatchewan
+Saskatchewan
+Saskatchewan
+Saskatchewan
+Saskatchewan
+Saskatchewan
+Saskatchewan
+Saskatchewan
+Saskatchewan
+Yukon
+Yukon
+Yukon
+Yukon
+
+
+Bamingui-Bangoran
+Bangui
+Bangui
+Basse-Kotto
+Haute-Kotto
+Haute-Kotto
+Haut-Mbomou
+Haut-Mbomou
+K?mo
+Lobaye
+Mamb?r?-Kad?
+Mamb?r?-Kad?
+Mbomou
+Mbomou
+Nana-Gr?bizi
+Nana-Mamb?r
+Ouaka
+Ouham
+"Ouham-Pend?
+Nola"
+Vakaga
+Batha
+Batha
+Bet
+Bet
+Bet
+Gu?ra
+Hadjer-Lamis
+Lac
+Logone Oriental
+Logone Oriental
+Mandoul
+Mayo-Kebbi Est
+Mayo-Kebbi Est
+"Ouadda?
+Am Timan"
+"Tandjil?
+Kelo"
+Ais?n del General Carlos Ib??ez del Campo
+Ais?n del General Carlos Ib??ez del Campo
+Ais?n del General Carlos Ib??ez del Campo
+Antofagasta
+Antofagasta
+Antofagasta
+Antofagasta
+Antofagasta
+Antofagasta
+Antofagasta
+Antofagasta
+Arica y Parinacota
+Atacama
+Atacama
+Atacama
+Atacama
+Atacama
+Atacama
+Atacama
+B?o-B?o
+B?o-B?o
+B?o-B?o
+B?o-B?o
+B?o-B?o
+B?o-B?o
+B?o-B?o
+B?o-B?o
+Coquimbo
+Coquimbo
+Coquimbo
+Coquimbo
+Coquimbo
+Coquimbo
+La Araucan?a
+La Araucan?a
+La Araucan?a
+La Araucan?a
+La Araucan?a
+La Araucan?a
+La Araucan?a
+La Araucan?a
+La Araucan?a
+La Araucan?a
+Libertador General Bernardo O'Higgins
+Libertador General Bernardo O'Higgins
+Los Lagos
+Los Lagos
+Los Lagos
+Los Lagos
+Los Lagos
+Los Lagos
+Los Lagos
+Los Lagos
+Los R?os
+Los R?os
+Los R?os
+Magallanes y Ant?rtica Chilena
+Magallanes y Ant?rtica Chilena
+Magallanes y Ant?rtica Chilena
+Magallanes y Ant?rtica Chilena
+Maule
+Maule
+Maule
+Maule
+Regi?n Metropolitana de Santiago
+Santa Cruz
+"Tarapac?
+Lagunas"
+Valpara?so
+Valpara?so
+Valpara?so
+Valpara?so
+Anhui
+Anhui
+Anhui
+Anhui
+Anhui
+Anhui
+Anhui
+Anhui
+Anhui
+Anhui
+Anhui
+Beijing
+Beijing
+Beijing
+Chongqing
+Chongqing
+Chongqing
+Fujian
+Fujian
+Fujian
+Fujian
+Fujian
+Fujian
+Fujian
+Fujian
+Fujian
+Fujian
+Fujian
+Fujian
+Gansu
+Gansu
+Gansu
+Gansu
+Gansu
+Gansu
+Gansu
+Gansu
+Gansu
+Gansu
+Gansu
+Gansu
+Gansu
+Gansu
+Gansu
+Gansu
+Gansu
+Gansu
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+Guangdong
+Guangxi
+Guangxi
+Guangxi
+Guangxi
+Guangxi
+Guangxi
+Guangxi
+Guangxi
+Guangxi
+Guizhou
+Guizhou
+Guizhou
+Guizhou
+Guizhou
+Guizhou
+Hainan
+Hainan
+Hebei
+Hebei
+Hebei
+Hebei
+Hebei
+Hebei
+Hebei
+Hebei
+Hebei
+Hebei
+Hebei
+Hebei
+Hebei
+Hebei
+Hebei
+Hebei
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Heilongjiang
+Henan
+Henan
+Henan
+Henan
+Henan
+Henan
+Henan
+Henan
+Henan
+Henan
+Henan
+Henan
+Henan
+Henan
+Henan
+Henan
+Hubei
+Hubei
+Hubei
+Hubei
+Hubei
+Hubei
+Hubei
+Hubei
+Hubei
+Hubei
+Hubei
+Hubei
+Hubei
+Hubei
+Hubei
+Hubei
+Hubei
+Hubei
+Hunan
+Hunan
+Hunan
+Hunan
+Hunan
+Hunan
+Hunan
+Hunan
+Hunan
+Hunan
+Hunan
+Hunan
+Hunan
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangsu
+Jiangxi
+Jiangxi
+Jiangxi
+Jiangxi
+Jiangxi
+Jiangxi
+Jiangxi
+Jiangxi
+Jiangxi
+Jiangxi
+Jiangxi
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Jilin
+Liaoning
+Liaoning
+Liaoning
+Liaoning
+Liaoning
+Liaoning
+Liaoning
+Liaoning
+Liaoning
+Liaoning
+Liaoning
+Liaoning
+Liaoning
+Liaoning
+Liaoning
+Liaoning
+Liaoning
+Liaoning
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Nei Mongol
+Ningxia Hui
+Ningxia Hui
+Shaanxi
+Shaanxi
+Shaanxi
+Shaanxi
+Shaanxi
+Shaanxi
+Shaanxi
+Shaanxi
+Shaanxi
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shandong
+Shanghai
+Shanxi
+Shanxi
+Shanxi
+Shanxi
+Shanxi
+Shanxi
+Shanxi
+Shanxi
+Shanxi
+Shanxi
+Sichuan
+Sichuan
+Sichuan
+Sichuan
+Sichuan
+Sichuan
+Sichuan
+Sichuan
+Sichuan
+Sichuan
+Sichuan
+Sichuan
+Sichuan
+Sichuan
+Sichuan
+Sichuan
+Sichuan
+Tianjin
+Tianjin
+Xinjiang Uygur
+Xinjiang Uygur
+Xinjiang Uygur
+Xinjiang Uygur
+Xinjiang Uygur
+Xinjiang Uygur
+Xinjiang Uygur
+Xinjiang Uygur
+Xinjiang Uygur
+Xinjiang Uygur
+Xinjiang Uygur
+Xinjiang Uygur
+Xinjiang Uygur
+Xinjiang Uygur
+Xinjiang Uygur
+Xizang
+Xizang
+Xizang
+Xizang
+Xizang
+Xizang
+Xizang
+Yunnan
+Yunnan
+Yunnan
+Yunnan
+Yunnan
+Yunnan
+Yunnan
+Yunnan
+Yunnan
+Yunnan
+Yunnan
+Yunnan
+Yunnan
+Yunnan
+Zhejiang
+Zhejiang
+Zhejiang
+Zhejiang
+Zhejiang
+Zhejiang
+Zhejiang
+Zhejiang
+Zhejiang
+Zhejiang
+Zhejiang
+Zhejiang
+Zhejiang
+Amazonas
+Antioquia
+Antioquia
+Antioquia
+Antioquia
+Antioquia
+Antioquia
+Arauca
+Arauca
+Atl?ntico
+Atl?ntico
+Atl?ntico
+Bogota
+Bol?var
+Bol?var
+Bol?var
+"Boyac?
+Tunja"
+"Caquet?
+Florencia"
+Casanare
+Cauca
+Cauca
+Cesar
+"Choc?
+Nuqui"
+C?rdoba
+C?rdoba
+Cundinamarca
+Guain?a
+Huila
+Huila
+Huila
+La Guajira
+Magdalena
+Magdalena
+Magdalena
+Meta
+Meta
+Meta
+Meta
+"Nari?o
+Ipiales"
+Norte de Santander
+Norte de Santander
+Putumayo
+Quind?o
+Risaralda
+Santander
+Santander
+Sucre
+Sucre
+Tolima
+Tolima
+Valle del Cauca
+Valle del Cauca
+Valle del Cauca
+Vaup?s
+Vichada
+
+
+Bouenza
+Cuvette
+Cuvette
+Cuvette-Ouest
+Kouilou
+L?koumou
+Likouala
+Niari
+Niari
+Plateaux
+Plateaux
+Pool
+Pool
+Sangha
+Sangha
+Sangha
+Bandundu
+Bandundu
+Bandundu
+Bandundu
+Bandundu
+Bandundu
+Bandundu
+Bandundu
+Bandundu
+Bandundu
+Bandundu
+Bas-Congo
+Bas-Congo
+Bas-Congo
+Bas-Congo
+Bas-Congo
+Bas-Congo
+?quateur
+?quateur
+?quateur
+?quateur
+?quateur
+?quateur
+?quateur
+?quateur
+?quateur
+?quateur
+?quateur
+?quateur
+?quateur
+?quateur
+Kasa?-Occidental
+Kasa?-Occidental
+Kasa?-Occidental
+Kasa?-Occidental
+Kasa?-Occidental
+Kasa?-Occidental
+Kasa?-Occidental
+Kasa?-Oriental
+Kasa?-Oriental
+Kasa?-Oriental
+Kasa?-Oriental
+Kasa?-Oriental
+Kasa?-Oriental
+Kasa?-Oriental
+Katanga
+Katanga
+Katanga
+Katanga
+Katanga
+Katanga
+Katanga
+Katanga
+Katanga
+Katanga
+Katanga
+Katanga
+Katanga
+Katanga
+Katanga
+Katanga
+Katanga
+Kinshasa City
+Maniema
+Maniema
+Maniema
+Maniema
+Maniema
+Nord-Kivu
+Nord-Kivu
+Nord-Kivu
+Nord-Kivu
+Orientale
+Orientale
+Orientale
+Orientale
+Orientale
+Orientale
+Orientale
+Orientale
+Orientale
+Orientale
+Orientale
+Orientale
+Sud-Kivu
+Sud-Kivu
+Sud-Kivu
+
+Alajuela
+Alajuela
+Cartago
+Guanacaste
+Guanacaste
+Heredia
+"Lim?n
+Puerto Limon"
+Puntarenas
+Puntarenas
+Dubrovacko-Neretvanska
+Grad Zagreb
+Istarska
+Karlovacka
+Osjecko-Baranjska
+Primorsko-Goranska
+?ibensko-Kninska
+Splitsko-Dalmatinska
+Zadarska
+Camag?ey
+Camag?ey
+Ciego de ?vila
+Cienfuegos
+Ciudad de la Habana
+Granma
+Guant?namo
+Holgu?n
+Holgu?n
+Isla de la Juventud
+La Habana
+La Habana
+La Habana
+Las Tunas
+Matanzas
+Matanzas
+Pinar del R?o
+Sancti Sp?ritus
+Santiago de Cuba
+Santiago de Cuba
+Villa Clara
+Villa Clara
+Villa Clara
+Villa Clara
+
+Larnaca
+Limassol
+Paphos
+
+Jihocesk?
+Karlovarsk?
+Kraj Vysocina
+Kraj Vysocina
+Kraj Vysocina
+Kr?lov?hradeck?
+Kr?lov?hradeck?
+Libereck?
+Libereck?
+Moravskoslezsk?
+Moravskoslezsk?
+Prague
+Hovedstaden
+Hovedstaden
+Midtjylland
+Midtjylland
+Nordjylland
+Nordjylland
+Sja?lland
+Sja?lland
+Syddanmark
+Syddanmark
+Syddanmark
+Syddanmark
+Ali Sabieh
+Dikhil
+Djibouti
+Obock
+Tadjourah
+Saint George
+Azua
+Bahoruco
+Barahona
+"Dajab?n
+Santo Domingo"
+Duarte
+El Seybo
+Elias Pina
+Espaillat
+Hato Mayor
+Hermanas
+Independencia
+La Altagracia
+La Altagracia
+La Romana
+La Vega
+Mar?a Trinidad S?nchez
+Monse?or Nouel
+Monte Cristi
+Monte Plata
+Pedernales
+Peravia
+Puerto Plata
+San Pedro de Macor?s
+S?nchez Ram?rez
+Santiago Rodr?guez
+Valverde
+Dili
+Azuay
+Bolivar
+Ca?ar
+Carchi
+Carchi
+Chimborazo
+Chimborazo
+Cotopaxi
+El Oro
+El Oro
+Esmeraldas
+Esmeraldas
+Esmeraldas
+Gal?pagos
+Gal?pagos
+Gal?pagos
+Guayas
+Guayas
+Imbabura
+Loja
+Loja
+Los Rios
+Manabi
+Manabi
+Manabi
+Manabi
+Morona Santiago
+Morona Santiago
+Napo
+Pastaza
+Pichincha
+Pichincha
+Pichincha
+Tungurahua
+Ad Daqahliyah
+Al Bahr al Ahmar
+Al Bahr al Ahmar
+Al Bahr al Ahmar
+Al Buhayrah
+Al Fayyum
+Al Gharbiyah
+Al Isma`iliyah
+Al Jizah
+Al Minufiyah
+Al Minya
+Al Minya
+Al Minya
+Al Minya
+Al Qahirah
+Al Qalyubiyah
+Al Wadi at Jadid
+Al Wadi at Jadid
+Al Wadi at Jadid
+As Suways
+Ash Sharqiyah
+Aswan
+Aswan
+Asyut
+Bani Suwayf
+Bur Sa`id
+Dumyat
+Janub Sina'
+Kafr ash Shaykh
+Kafr ash Shaykh
+Matruh
+Matruh
+Matruh
+Matruh
+Matruh
+Qina
+Qina
+Qina
+Shamal Sina'
+Suhaj
+Suhaj
+Ahuachap?n
+Caba?as
+Chalatenango
+Cuscatl?n
+La Libertad
+La Paz
+"La Uni?n
+San Francisco Gotera"
+San Miguel
+San Salvador
+San Vicente
+Santa Ana
+Sonsonate
+Usulut?n
+Bioko Norte
+Bioko Sur
+Centro Sur
+Litoral
+Litoral
+Wele-Nz?s
+Anseba
+Debub
+Debubawi Keyih Bahri
+Gash Barka
+Gash Barka
+Maekel
+Semenawi Keyih Bahri
+Harju
+Ida-Viru
+Ida-Viru
+L??ne
+P?rnu
+Tartu
+Viljandi
+Addis Ababa
+Addis Ababa
+Addis Ababa
+Addis Ababa
+Addis Ababa
+Addis Ababa
+Addis Ababa
+Addis Ababa
+Addis Ababa
+Addis Ababa
+Addis Ababa
+Addis Ababa
+Addis Ababa
+Amhara
+Amhara
+Amhara
+Amhara
+Amhara
+Amhara
+Benshangul-Gumaz
+Dire Dawa
+Harari
+Somali
+Somali
+Somali
+Southern Nations, Nationalities and Peoples
+Southern Nations, Nationalities and Peoples
+Southern Nations, Nationalities and Peoples
+Southern Nations, Nationalities and Peoples
+Southern Nations, Nationalities and Peoples
+Southern Nations, Nationalities and Peoples
+Tigray
+Tigray
+Tigray
+
+
+Eysturoyar
+Eysturoyar
+
+Central
+Western
+Western
+Western
+NULL
+Eastern Finland
+Eastern Uusimaa
+Finland Proper
+NULL
+Lapland
+Lapland
+Lapland
+North Karelia
+Northern Ostrobothnia
+P?ij?nne Tavastia
+Pirkanmaa
+Satakunta
+South Karelia
+Southern Finland
+Southern Finland
+Southern Savonia
+Southern Savonia
+Tavastia Proper
+Western Finland
+Western Finland
+Alsace
+Alsace
+"Amap?
+Biarritz"
+Aquitaine
+Aquitaine
+Auvergne
+Auvergne
+Basse-Normandie
+Basse-Normandie
+Bourgogne
+Bourgogne
+Bourgogne
+Bretagne
+Bretagne
+Bretagne
+Bretagne
+Centre
+Centre
+Centre
+Champagne-Ardenne
+Champagne-Ardenne
+Corse
+Corse
+"Franche-Comt?
+Pointe-a-Pitre"
+Guadeloupe
+Guinaa
+Guinaa
+Guinaa
+Guinaa
+Guinaa
+Guinaa
+Haute-Normandie
+Haute-Normandie
+Haute-Normandie
+?le-de-France
+?le-de-France
+?le-de-France
+La R?union
+La R?union
+Languedoc-Roussillon
+Languedoc-Roussillon
+Languedoc-Roussillon
+Languedoc-Roussillon
+Limousin
+Limousin
+Lorraine
+Lorraine
+Martinique
+Midi-Pyr?n?es
+Midi-Pyr?n?es
+Moyotte
+Nord-Pas-de-Calais
+Nord-Pas-de-Calais
+Pays de la Loire
+Pays de la Loire
+Pays de la Loire
+Picardie
+Poitou-Charentes
+Poitou-Charentes
+Provence-Alpes-C?te-d'Azur
+Provence-Alpes-C?te-d'Azur
+Provence-Alpes-C?te-d'Azur
+Provence-Alpes-C?te-d'Azur
+Rh?ne-Alpes
+Rh?ne-Alpes
+Rh?ne-Alpes
+Rh?ne-Alpes
+Rh?ne-Alpes
+
+Estuaire
+"Haut-Ogoou?
+Okandja"
+Nyanga
+Ogoou?-Ivindo
+Ogoou?-Ivindo
+Ogoou?-Lolo
+Ogoou?-Maritime
+Ogoou?-Maritime
+Ogoou?-Maritime
+Wouleu-Ntem
+Wouleu-Ntem
+Wouleu-Ntem
+Wouleu-Ntem
+Abkhazia
+Ajaria
+Imereti
+Kvemo Kartli
+Samegrelo-Zemo Svaneti
+Shida Kartli
+Tbilisi
+Baden-W?rttemberg
+Baden-W?rttemberg
+Baden-W?rttemberg
+Baden-W?rttemberg
+Baden-W?rttemberg
+Baden-W?rttemberg
+Bayern
+Bayern
+Bayern
+Bayern
+Bayern
+Bayern
+Bayern
+Bayern
+Bayern
+Bayern
+Berlin
+Brandenburg
+Brandenburg
+Bremen
+Bremen
+Hamburg
+Hessen
+Hessen
+Hessen
+Hessen
+Mecklenburg-Vorpommern
+Mecklenburg-Vorpommern
+Mecklenburg-Vorpommern
+Niedersachsen
+Niedersachsen
+Niedersachsen
+Niedersachsen
+Niedersachsen
+Niedersachsen
+Nordrhein-Westfalen
+Nordrhein-Westfalen
+Nordrhein-Westfalen
+Nordrhein-Westfalen
+Nordrhein-Westfalen
+Nordrhein-Westfalen
+Nordrhein-Westfalen
+Nordrhein-Westfalen
+Nordrhein-Westfalen
+Rheinland-Pfalz
+Rheinland-Pfalz
+Saarland
+Sachsen
+Sachsen
+Sachsen
+Sachsen-Anhalt
+Schleswig-Holstein
+Schleswig-Holstein
+Schleswig-Holstein
+Th?ringen
+Th?ringen
+Th?ringen
+Ashanti
+Ashanti
+Brong Ahafo
+Brong Ahafo
+Central
+Central
+Eastern
+Eastern
+Greater Accra
+Greater Accra
+Northern
+Northern
+Upper East
+Upper East
+Upper West
+Volta
+Western
+Gibraltar
+Anatoliki Makedonia kai Thraki
+Anatoliki Makedonia kai Thraki
+Anatoliki Makedonia kai Thraki
+Anatoliki Makedonia kai Thraki
+Attiki
+Dytiki Ellada
+Dytiki Ellada
+Dytiki Ellada
+Ionioi Nisoi
+Ipeiros
+Kentriki Makedonia
+Kentriki Makedonia
+Kentriki Makedonia
+Kentriki Makedonia
+Kriti
+Kriti
+Kriti
+Notio Aigaio
+Notio Aigaio
+Notio Aigaio
+Peloponnisos
+Peloponnisos
+Stere? Ell?da
+Stere? Ell?da
+Thessalia
+Thessalia
+Voreio Aigaio
+Voreio Aigaio
+Kommune Kujalleq
+Kommune Kujalleq
+Kommune Kujalleq
+Kommuneqarfik Sermersooq
+Kommuneqarfik Sermersooq
+Kommuneqarfik Sermersooq
+Kommuneqarfik Sermersooq
+Nationalparken
+Qaasuitsup Kommunia
+Qaasuitsup Kommunia
+Qaasuitsup Kommunia
+Qaasuitsup Kommunia
+Qaasuitsup Kommunia
+Qaasuitsup Kommunia
+Qeqqata Kommunia
+Qeqqata Kommunia
+
+
+
+
+
+
+
+
+Alta Verapaz
+Baja Verapaz
+Chimaltenango
+Chiquimula
+El Progreso
+Guatemala
+Huehuetenango
+Izabal
+Izabal
+Jalapa
+Jutiapa
+Pet?n
+Pet?n
+Pet?n
+Quezaltenango
+"Quich?
+Retalhuleu"
+Sacatep?quez
+Santa Rosa
+"Solol?
+Mazatenango"
+Totonicap?n
+Zacapa
+Boke
+Boke
+Boke
+Boke
+Boke
+Boke
+Conakry
+Faranah
+Faranah
+Faranah
+Faranah
+Kankan
+Kankan
+Kankan
+Kankan
+Kindia
+Kindia
+Kindia
+Labe
+Labe
+Labe
+Mamou
+Mamou
+Mamou
+Nzerekore
+Nzerekore
+Nzerekore
+Nzerekore
+Nzerekore
+"Bafat?
+Bissau"
+Bolama
+Cacheu
+Gab?
+Oio
+Quinara
+Tombali
+Barima-Waini
+Cuyuni-Mazaruni
+Essequibo Islands-West Demerara
+Mahaica-Berbice
+Pomeroon-Supenaam
+Upper Demerara-Berbice
+Upper Demerara-Berbice
+Upper Takutu-Upper Essequibo
+Upper Takutu-Upper Essequibo
+Centre
+Grand'Anse
+L'Artibonite
+Nord
+Nord-Est
+Nord-Ouest
+Ouest
+Sud
+Sud-Est
+Atl?ntida
+Choluteca
+Cop?n
+Cort?s
+El Para?so
+Francisco Moraz?n
+Gracias a Dios
+Gracias a Dios
+"Intibuc?
+Roatan"
+La Paz
+Lempira
+Ocotepeque
+Olancho
+Valle
+Yoro
+
+B?cs-Kiskun
+Baranya
+B?k
+Borsod-Aba?j-Zempl?n
+Budapest
+Csongr?d
+Fej?r
+Gyor-Moson-Sopron
+Hajd?-Bihar
+Heves
+J?sz-Nagykun-Szolnok
+Kom?rom-Esztergom
+N?gr
+Pest
+Somogy
+Szabolcs-Szatm?r-Bereg
+Tolna
+Vas
+Veszpr?m
+Zala
+Akrahreppur
+Akureyri
+Selfoss
+NULL
+NULL
+Sveitarf?lagi? Hornafj?r?ur
+NULL
+Vesturland
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Assam
+Dadra and Nagar Haveli
+Dadra and Nagar Haveli
+Dadra and Nagar Haveli
+Dadra and Nagar Haveli
+Delhi
+Haryana
+Himachal Pradesh
+Jammu and Kashmir
+Karnataka
+Karnataka
+Karnataka
+Kerala
+Lakshadweep
+Maharashtra
+Maharashtra
+Maharashtra
+Orissa
+Orissa
+Punjab
+Sikkim
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+Aceh
+Aceh
+Aceh
+Bali
+Bali
+Bali
+Bangka-Belitung
+Bangka-Belitung
+Banten
+Bengkulu
+Gorontalo
+Irian Jaya Barat
+Irian Jaya Barat
+Jakarta Raya
+Jakarta Raya
+Jambi
+Jambi
+Jawa Barat
+Jawa Barat
+Jawa Barat
+Jawa Barat
+Jawa Barat
+Jawa Barat
+Jawa Tengah
+Jawa Tengah
+Jawa Tengah
+Jawa Tengah
+Jawa Tengah
+Jawa Tengah
+Jawa Tengah
+Jawa Tengah
+Jawa Timur
+Jawa Timur
+Jawa Timur
+Jawa Timur
+Jawa Timur
+Jawa Timur
+Jawa Timur
+Jawa Timur
+Jawa Timur
+Jawa Timur
+Jawa Timur
+Jawa Timur
+Kalimantan Barat
+Kalimantan Barat
+Kalimantan Selatan
+Kalimantan Selatan
+Kalimantan Tengah
+Kalimantan Tengah
+Kalimantan Tengah
+Kalimantan Timur
+Kalimantan Timur
+Kalimantan Timur
+Kalimantan Timur
+Kepulauan Riau
+Kepulauan Riau
+Lampung
+Lampung
+Maluku
+Maluku
+Maluku Utara
+Maluku Utara
+Nusa Tenggara Barat
+Nusa Tenggara Barat
+Nusa Tenggara Barat
+Nusa Tenggara Timur
+Nusa Tenggara Timur
+Nusa Tenggara Timur
+Nusa Tenggara Timur
+Nusa Tenggara Timur
+Papua
+Papua
+Papua
+Papua
+Papua
+Riau
+Sulawesi Barat
+Sulawesi Selatan
+Sulawesi Selatan
+Sulawesi Selatan
+Sulawesi Selatan
+Sulawesi Selatan
+Sulawesi Selatan
+Sulawesi Tengah
+Sulawesi Tengah
+Sulawesi Tengah
+Sulawesi Tenggara
+Sulawesi Tenggara
+Sulawesi Utara
+Sumatera Barat
+Sumatera Barat
+Sumatera Barat
+Sumatera Barat
+Sumatera Selatan
+Sumatera Selatan
+Sumatera Selatan
+Sumatera Utara
+Sumatera Utara
+Sumatera Utara
+Sumatera Utara
+Sumatera Utara
+Sumatera Utara
+Sumatera Utara
+Yogyakarta
+Ardebil
+Bushehr
+Chahar Mahall and Bakhtiari
+East Azarbaijan
+East Azarbaijan
+East Azarbaijan
+Esfahan
+Esfahan
+Esfahan
+Esfahan
+Fars
+Fars
+Fars
+Gilan
+Golestan
+Golestan
+Hamadan
+Hamadan
+Hormozgan
+Kerman
+Kerman
+Kerman
+Kermanshah
+Kermanshah
+Khuzestan
+Khuzestan
+Khuzestan
+Khuzestan
+Khuzestan
+Kohgiluyeh and Buyer Ahmad
+Kordestan
+Kordestan
+Lorestan
+Lorestan
+Markazi
+Markazi
+Mazandaran
+Mazandaran
+North Khorasan
+Qazvin
+Qom
+Razavi Khorasan
+Razavi Khorasan
+Razavi Khorasan
+Razavi Khorasan
+Razavi Khorasan
+Razavi Khorasan
+Semnan
+Semnan
+Sistan and Baluchestan
+Sistan and Baluchestan
+Sistan and Baluchestan
+South Khorasan
+South Khorasan
+Tehran
+Tehran
+Tehran
+West Azarbaijan
+West Azarbaijan
+West Azarbaijan
+Yazd
+Zanjan
+Al-Anbar
+Al-Anbar
+Al-Anbar
+Al-Basrah
+Al-Basrah
+Al-Muthannia
+Al-Qadisiyah
+An-Najaf
+Arbil
+As-Sulaymaniyah
+At-Ta'mim
+Babil
+Baghdad
+Dhi-Qar
+Dhi-Qar
+Dihok
+Dihok
+Diyala
+Diyala
+Karbala'
+Maysan
+Ninawa
+Ninawa
+Sala ad-Din
+Sala ad-Din
+Wasit
+Clare
+Cork
+Donegal
+Galway
+Kerry
+Kerry
+Kilkenny
+Kilkenny
+Limerick
+Louth
+Louth
+Monaghan
+Roscommon
+Sligo
+HaDarom
+Haifa
+HaMerkaz
+HaZafon
+Jerusalem
+Tel Aviv
+Abruzzo
+Abruzzo
+Apulia
+Apulia
+Apulia
+Apulia
+Apulia
+Basilicata
+Calabria
+Calabria
+Calabria
+Calabria
+Campania
+Campania
+Campania
+Emilia-Romagna
+Emilia-Romagna
+Emilia-Romagna
+Emilia-Romagna
+Emilia-Romagna
+Friuli-Venezia Giulia
+Friuli-Venezia Giulia
+Lazio
+Lazio
+Liguria
+Lombardia
+Lombardia
+Lombardia
+Marche
+Molise
+Piemonte
+Piemonte
+Piemonte
+Sardegna
+Sardegna
+Sardegna
+Sicily
+Sicily
+Sicily
+Sicily
+Sicily
+Sicily
+Toscana
+Toscana
+Toscana
+Toscana
+Trentino-Alto Adige
+Trentino-Alto Adige
+Umbria
+Valle d'Aosta
+Veneto
+Veneto
+Veneto
+Agn?by
+Bafing
+Bas-Sassandra
+Bas-Sassandra
+Bas-Sassandra
+Dengu?l
+Dix-Huit Montagnes
+Fromager
+Haut-Sassandra
+Lacs
+Lacs
+Lagunes
+Lagunes
+Lagunes
+"Marahou?
+Guiglo"
+Moyen-Comoe
+"N'zi-Como?
+Ferkessedougou"
+Savanes
+Sud-Bandama
+"Sud-Como?
+Bouake"
+Worodougou
+Zanzan
+Clarendon
+Hanover
+Kingston
+Manchester
+Portland
+Saint Andrew
+Saint Ann
+Saint Catherine
+Saint Elizabeth
+Saint James
+Saint Mary
+Saint Thomas
+Trelawny
+Westmoreland
+Aichi
+Akita
+Aomori
+Aomori
+Aomori
+Ehime
+Fukui
+Fukuoka
+Fukuoka
+Fukushima
+Fukushima
+Fukushima
+Gifu
+Gunma
+Hiroshima
+Hiroshima
+Hokkaido
+Hokkaido
+Hokkaido
+Hokkaido
+Hokkaido
+Hokkaido
+Hokkaido
+Hokkaido
+Hokkaido
+Hyogo
+Ibaraki
+Ishikawa
+Iwate
+Kagawa
+Kagoshima
+Kagoshima
+Kanagawa
+Kanagawa
+Kumamoto
+Kyoto
+Kyoto
+Mie
+Miyagi
+Miyazaki
+Nagano
+Nagano
+Nagasaki
+Nagasaki
+Niigata
+Niigata
+Oita
+Okayama
+Okinawa
+Osaka
+Saitama
+Shiga
+Shimane
+Shizuoka
+Shizuoka
+Tochigi
+Tokushima
+Tokyo
+Tokyo
+Tottori
+Toyama
+Toyama
+Wakayama
+Yamagata
+Yamagata
+Yamagata
+Yamaguchi
+Yamanashi
+Amman
+Aqaba
+Balqa
+Irbid
+Karak
+Ma`an
+Mafraq
+Tafilah
+Zarqa
+Almaty
+Almaty
+Almaty
+Almaty
+Almaty
+Almaty
+Almaty
+Almaty
+Almaty
+Almaty
+Aqmola
+Aqmola
+Aqmola
+Aqmola
+Aqmola
+Aqmola
+Aqmola
+Aqmola
+Aqmola
+Aqmola
+Aqmola
+Aqt?be
+Aqt?be
+Aqt?be
+Aqt?be
+Aqt?be
+Aqt?be
+Aqt?be
+Atyrau
+Atyrau
+Atyrau
+Atyrau
+Atyrau
+East Kazakhstan
+East Kazakhstan
+East Kazakhstan
+East Kazakhstan
+East Kazakhstan
+East Kazakhstan
+East Kazakhstan
+East Kazakhstan
+East Kazakhstan
+East Kazakhstan
+Mangghystau
+Mangghystau
+Mangghystau
+Mangghystau
+Mangghystau
+North Kazakhstan
+North Kazakhstan
+North Kazakhstan
+North Kazakhstan
+Pavlodar
+Pavlodar
+Pavlodar
+Pavlodar
+Pavlodar
+Qaraghandy
+Qaraghandy
+Qaraghandy
+Qaraghandy
+Qaraghandy
+Qaraghandy
+Qaraghandy
+Qaraghandy
+Qaraghandy
+Qaraghandy
+Qostanay
+Qostanay
+Qostanay
+Qostanay
+Qostanay
+Qostanay
+Qostanay
+Qostanay
+Qyzylorda
+Qyzylorda
+Qyzylorda
+Qyzylorda
+Qyzylorda
+Qyzylorda
+South Kazakhstan
+South Kazakhstan
+South Kazakhstan
+South Kazakhstan
+South Kazakhstan
+West Kazakhstan
+West Kazakhstan
+West Kazakhstan
+West Kazakhstan
+Zhambyl
+Zhambyl
+Zhambyl
+Zhambyl
+Zhambyl
+Zhambyl
+Central
+Central
+Coast
+Coast
+Coast
+Coast
+Coast
+Coast
+Coast
+Eastern
+Eastern
+Eastern
+Eastern
+Eastern
+Eastern
+Nairobi
+North-Eastern
+North-Eastern
+Nyanza
+Nyanza
+Nyanza
+Nyanza
+Rift Valley
+Rift Valley
+Rift Valley
+Rift Valley
+Rift Valley
+Rift Valley
+Rift Valley
+Rift Valley
+Rift Valley
+Rift Valley
+Rift Valley
+Rift Valley
+Western
+Western
+
+Pristina
+Prizren
+Al Ahmadi
+Al Jahrah
+Al Kuwayt
+Hawalli
+Bishkek
+Bishkek
+Bishkek
+Jalal-Abad
+Jalal-Abad
+Jalal-Abad
+Jalal-Abad
+Naryn
+Naryn
+Osh
+Talas
+Ysyk-K?l
+Ysyk-K?l
+Ysyk-K?l
+Attapu
+Bokeo
+Champasak
+Champasak
+Houaphan
+Khammouan
+Louang Namtha
+Louangphrabang
+Ph?ngsali
+Saravan
+Savannakh?t
+Vientiane [prefecture]
+Xaignabouri
+Xiangkhoang
+Daugavpils
+Jelgava
+Latgale
+Liepaja
+Riga
+Ventspils
+An Nabatiyah
+Beirut
+Mount Lebanon
+Mount Lebanon
+North Lebanon
+South Lebanon
+Berea
+Leribe
+Leribe
+Mafeteng
+Maseru
+Mohale's Hoek
+Mokhotlong
+Quthing
+Bong
+Grand Bassa
+Grand Cape Mount
+GrandGedeh
+GrandKru
+Lofa
+Margibi
+Maryland
+Montserrado
+Montserrado
+Nimba
+River Cess
+Ajdabiya
+Ajdabiya
+Ajdabiya
+Ajdabiya
+Al Butnan
+Al Butnan
+Al Hizam Al Akhdar
+Al Jabal al Akhdar
+Al Jufrah
+Al Jufrah
+Al Kufrah
+Al Marqab
+Al Qubbah
+An Nuqat al Khams
+Ash Shati'
+Az Zawiyah
+Bani Walid
+Benghazi
+Benghazi
+Ghadamis
+Ghadamis
+Ghadamis
+Ghat
+Misratah
+Mizdah
+Mizdah
+Murzuq
+Murzuq
+Murzuq
+Sabha
+Sabha
+Surt
+Surt
+Tajura' wa an Nawahi al Arba
+
+Kauno
+Klaipedos
+Panevezio
+?iauliai
+Vilniaus
+Diekirch
+Grevenmacher
+Luxembourg
+
+Bitola
+Centar
+Tetovo
+Antananarivo
+Antananarivo
+Antsiranana
+Antsiranana
+Antsiranana
+Antsiranana
+Antsiranana
+Fianarantsoa
+Fianarantsoa
+Fianarantsoa
+Fianarantsoa
+Mahajanga
+Mahajanga
+Mahajanga
+Mahajanga
+Mahajanga
+Mahajanga
+Toamasina
+Toamasina
+Toamasina
+Toliary
+Toliary
+Toliary
+Toliary
+Toliary
+Toliary
+Toliary
+Toliary
+Blantyre
+Chiradzulu
+Chitipa
+Chitipa
+Dedza
+Lilongwe
+Machinga
+Mangochi
+Mchinji
+Mulanje
+Mzimba
+Mzimba
+Nkhata Bay
+Nkhotakota
+Nsanje
+Nsanje
+Ntcheu
+Salima
+Zomba
+Johor
+Johor
+Johor
+Johor
+Kedah
+Kedah
+Kelantan
+Melaka
+Negeri Sembilan
+Pahang
+Pahang
+Pahang
+Perak
+Perak
+Perak
+Perlis
+Pulau Pinang
+Pulau Pinang
+Sabah
+Sabah
+Sabah
+Sabah
+Sarawak
+Sarawak
+Sarawak
+Sarawak
+Selangor
+Selangor
+Selangor
+Selangor
+Trengganu
+Trengganu
+
+Bamako
+Bamako
+Bamako
+Bamako
+Bamako
+Bamako
+Gao
+Gao
+Gao
+Kayes
+Kayes
+Kayes
+Kayes
+Kayes
+Kayes
+Kidal
+Kidal
+Mopti
+Mopti
+S?gou
+S?gou
+S?gou
+S?gou
+Sikasso
+Sikasso
+Sikasso
+Timbuktu
+Timbuktu
+Timbuktu
+Timbuktu
+
+
+Adrar
+Assaba
+Brakna
+Brakna
+Brakna
+Dakhlet Nouadhibou
+Guidimaka
+Hodh ech Chargui
+Hodh ech Chargui
+Hodh el Gharbi
+Inchiri
+Nouakchott
+Tagant
+Tiris Zemmour
+Tiris Zemmour
+Tiris Zemmour
+Tiris Zemmour
+Trarza
+Trarza
+Trarza
+
+
+Aguascalientes
+Baja California
+Baja California
+Baja California
+Baja California
+Baja California
+Baja California
+Baja California Sur
+Baja California Sur
+Baja California Sur
+Baja California Sur
+Baja California Sur
+Baja California Sur
+Campeche
+Campeche
+Campeche
+Chiapas
+Chiapas
+Chiapas
+Chiapas
+Chiapas
+Chihuahua
+Chihuahua
+Chihuahua
+Chihuahua
+Chihuahua
+Chihuahua
+Chihuahua
+Chihuahua
+Chihuahua
+Chihuahua
+Chihuahua
+Coahuila
+Coahuila
+Coahuila
+Coahuila
+Coahuila
+Coahuila
+Coahuila
+Coahuila
+Coahuila
+Colima
+Colima
+Colima
+Distrito Federal
+Durango
+Durango
+Durango
+Durango
+Guanajuato
+Guanajuato
+Guanajuato
+Guanajuato
+Guerrero
+Guerrero
+Guerrero
+Guerrero
+Guerrero
+Guerrero
+Guerrero
+Guerrero
+Guerrero
+Guerrero
+Hidalgo
+Jalisco
+Jalisco
+Jalisco
+Jalisco
+Jalisco
+M?xico
+M?xico
+M?xico
+Michoac?n
+Michoac?n
+Michoac?n
+Michoac?n
+Michoac?n
+Michoac?n
+Michoac?n
+Morelos
+Nayarit
+Nayarit
+Nayarit
+Nayarit
+Nayarit
+"Nuevo Le?n
+Sabinas Hidalgo"
+Oaxaca
+Oaxaca
+Oaxaca
+Oaxaca
+Oaxaca
+Oaxaca
+Oaxaca
+Oaxaca
+Oaxaca
+Puebla
+Puebla
+Puebla
+Puebla
+Puebla
+Quer?taro
+Quer?taro
+Quintana Roo
+Quintana Roo
+Quintana Roo
+Quintana Roo
+Quintana Roo
+"San Luis Potos?
+Ciudad Valles"
+Sinaloa
+Sinaloa
+Sinaloa
+Sinaloa
+Sinaloa
+Sinaloa
+Sinaloa
+Sinaloa
+Sinaloa
+Sinaloa
+Sonora
+Sonora
+Sonora
+Sonora
+Sonora
+Sonora
+Sonora
+NULL
+Sonora
+Sonora
+Sonora
+Sonora
+Sonora
+Tabasco
+Tabasco
+Tabasco
+Tabasco
+Tabasco
+Tamaulipas
+Tamaulipas
+Tamaulipas
+Tamaulipas
+Tamaulipas
+Tamaulipas
+Tamaulipas
+Tamaulipas
+Tlaxcala
+Veracruz
+Veracruz
+Veracruz
+Veracruz
+Veracruz
+Veracruz
+Veracruz
+Veracruz
+Veracruz
+Veracruz
+Veracruz
+Yucat?n
+Yucat?n
+Yucat?n
+Yucat?n
+Yucat?n
+Yucat?n
+Yucat?n
+Yucat?n
+Yucat?n
+Zacatecas
+Zacatecas
+Zacatecas
+Zacatecas
+Zacatecas
+Balti
+Bender
+Cahul
+Chisinau
+Transnistria
+
+Arhangay
+Bayanhongor
+Bayan-?lgiy
+Bulgan
+Dornod
+Dornogovi
+Dornogovi
+Dundgovi
+Dzavhan
+Dzavhan
+Govi-Altay
+Hentiy
+Hovd
+H?vsg?l
+?mn?govi
+Orhon
+?v?rhangay
+Selenge
+Selenge
+Selenge
+S?hbaatar
+T?v
+Ulaanbaatar
+Uvs
+Podgorica
+Chaouia - Ouardigha
+Doukkala - Abda
+Doukkala - Abda
+F?s - Boulemane
+Gharb - Chrarda - B?ni Hssen
+Gharb - Chrarda - B?ni Hssen
+Grand Casablanca
+Guelmim - Es-Semara
+Guelmim - Es-Semara
+Guelmim - Es-Semara
+La?youne - Boujdour - Sakia El Hamra
+La?youne - Boujdour - Sakia El Hamra
+La?youne - Boujdour - Sakia El Hamra
+Marrakech - Tensift - Al Haouz
+Mekn?s - Tafilalet
+Mekn?s - Tafilalet
+Oriental
+Oued el Dahab
+Oued el Dahab
+Rabat - Sal? - Zemmour - Zaer
+"Souss - Massa - Dra?
+Agadir"
+Tanger - T?touan
+Tanger - T?touan
+Taza - Al Hoceima - Taounate
+Cabo Delgado
+Cabo Delgado
+Cabo Delgado
+Gaza
+Gaza
+Gaza
+Gaza
+Inhambane
+Inhambane
+Inhambane
+Inhambane
+Inhambane
+Manica
+Manica
+Manica
+Maputo
+Maputo
+Nampula
+Nampula
+Nampula
+Nampula
+Nampula
+Nassa
+Nassa
+Nassa
+Sofala
+Sofala
+Sofala
+Tete
+Tete
+Tete
+Zambezia
+Zambezia
+Zambezia
+Ayeyarwady
+Ayeyarwady
+Ayeyarwady
+Ayeyarwady
+Ayeyarwady
+Ayeyarwady
+Bago
+Bago
+Bago
+Bago
+Bago
+Chin
+Kachin
+Kayah
+Kayin
+Magway
+Magway
+Magway
+Magway
+Magway
+Mandalay
+Mandalay
+Mandalay
+Mon
+Mon
+Mon
+Rakhine
+Rakhine
+Sagaing
+Sagaing
+Sagaing
+Shan
+Shan
+Tanintharyi
+Tanintharyi
+Yangon
+Yangon
+Caprivi
+Erongo
+Erongo
+Erongo
+Erongo
+Erongo
+Hardap
+Hardap
+Hardap
+Karas
+Karas
+Karas
+Karas
+Karas
+Kavango
+Kavango
+Khomas
+Kunene
+Kunene
+Ohangwena
+Omaheke
+Oshana
+Oshikoto
+Otjozondjupa
+Otjozondjupa
+Otjozondjupa
+Otjozondjupa
+Achham
+Banke
+Bhaktapur
+Bhojpur
+Dhawalagiri
+Gorkha
+Janakpur
+Karnali
+Lumbini
+Mahakali
+Mechi
+Narayani
+Narayani
+Narayani
+Rapti
+Sagarmatha
+Drenthe
+Friesland
+Gelderland
+Limburg
+Noord-Brabant
+Noord-Brabant
+Noord-Holland
+Noord-Holland
+Overijssel
+Utrecht
+Zuid-Holland
+Zuid-Holland
+Sud
+Auckland
+Auckland
+Auckland
+Auckland
+Auckland
+Auckland
+Auckland
+Bay of Plenty
+Bay of Plenty
+Canterbury
+Canterbury
+Canterbury
+Canterbury
+Gisborne
+Gisborne
+Gisborne
+Manawatu-Wanganui
+Manawatu-Wanganui
+Manawatu-Wanganui
+Manawatu-Wanganui
+Manawatu-Wanganui
+Manawatu-Wanganui
+Marlborough
+Nelson
+Northland
+Otago
+Otago
+Southland
+Taranaki
+West Coast
+West Coast
+West Coast
+Atl?ntico Norte
+Atl?ntico Sur
+Boaco
+Carazo
+Chinandega
+Chontales
+"Estel?
+Granada"
+Jinotega
+Managua
+Masaya
+Matagalpa
+Nicaragua
+Nicaragua
+Nicaragua
+Nueva Segovia
+Agadez
+Agadez
+Agadez
+Diffa
+Diffa
+Dosso
+Maradi
+Niamey
+Niamey
+Niamey
+Tahoua
+Tahoua
+Tahoua
+Zinder
+Zinder
+Abia
+Abia
+Adamawa
+Adamawa
+Adamawa
+Akwa Ibom
+Akwa Ibom
+Anambra
+Anambra
+Bauchi
+Bauchi
+Benue
+Benue
+Borno
+Borno
+Borno
+Cross River
+Delta
+Delta
+Edo
+Ekiti
+Enugu
+Enugu
+Federal Capital Territory
+Gombe
+Gombe
+Imo
+Imo
+Jigawa
+Kaduna
+Kaduna
+Kano
+Katsina
+Katsina
+Kebbi
+Kebbi
+Kogi
+Kogi
+Kwara
+Lagos
+Nassarawa
+Nassarawa
+Niger
+Niger
+Niger
+Ogun
+Ogun
+Ondo
+Ondo
+Ondo
+Ondo
+Osun
+Osun
+Osun
+Oyo
+Oyo
+Oyo
+Oyo
+Plateau
+Rivers
+Sokoto
+Taraba
+Taraba
+Yobe
+Yobe
+Yobe
+Yobe
+Zamfara
+Chagang-do
+Chagang-do
+Chagang-do
+Hamgyong-bukto
+Hamgyong-bukto
+Hamgyong-bukto
+Hamgyong-bukto
+Hamgyong-bukto
+Hamgyong-namdo
+Hamgyong-namdo
+Hwanghae-bukto
+Hwanghae-bukto
+Hwanghae-namdo
+Hwanghae-namdo
+Hwanghae-namdo
+Kaesong
+Kangwon-do
+Kangwon-do
+Kangwon-do
+Namp'o-si
+P'yongan-bukto
+P'yongan-bukto
+P'yongan-bukto
+P'yongan-namdo
+P'yongan-namdo
+P'yongyang
+Ryanggang
+Ryanggang
+
+
+
+Akershus
+?stfold
+Aust-Agder
+Buskerud
+Finnmark
+Finnmark
+Finnmark
+Finnmark
+Hedmark
+Hordaland
+Hordaland
+M?re og Romsdal
+M?re og Romsdal
+NULL
+Nordland
+Nordland
+Nordland
+Nord-Tr?ndelag
+Nord-Tr?ndelag
+Nord-Tr?ndelag
+Oppland
+Oppland
+Oslo
+Rogaland
+Rogaland
+Rogaland
+Sogn og Fjordane
+S?r-Tr?ndelag
+Telemark
+Troms
+Troms
+Troms
+Vest-Agder
+Vestfold
+Ad Dakhliyah
+Ad Dakhliyah
+Al Batnah
+Al Dhahira
+Ash Sharqiyah
+Ash Sharqiyah
+Dhofar
+Dhofar
+Muscat
+Muscat
+Baluchistan
+Baluchistan
+Baluchistan
+Baluchistan
+Baluchistan
+F.A.T.A.
+F.C.T.
+Khyber-Pakhtunkhwa
+Khyber-Pakhtunkhwa
+N.W.F.P.
+N.W.F.P.
+N.W.F.P.
+N.W.F.P.
+N.W.F.P.
+N.W.F.P.
+Northern Areas
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Sind
+Sind
+Sind
+Sind
+Sind
+
+
+
+
+
+
+Bocas del Toro
+Bocas del Toro
+"Chiriqu?
+David"
+Dari?n
+Herrera
+Kuna Yala
+Los Santos
+Panama
+Veraguas
+Central
+Central
+Chimbu
+East New Britain
+East Sepik
+Eastern Highlands
+Enga
+Gulf
+Madang
+Manus
+Milne Bay
+Morobe
+New Ireland
+North Solomons
+North Solomons
+North Solomons
+Northern
+Sandaun
+Southern Highlands
+West New Britain
+West New Britain
+Western Highlands
+
+Alto Paraguay
+Alto Paraguay
+Alto Paraguay
+"Alto Paran?
+Ciudad del Este"
+Amambay
+"Asunci?n
+Ypacarai"
+"Caazap?
+Abai"
+Canindey?
+"Concepci?n
+Belen"
+Cordillera
+"Guair?
+Encarnacion"
+Itap?a
+Itap?a
+Misiones
+?eembuc?
+"Paraguar?
+Villa Hayes"
+Presidente Hayes
+Presidente Hayes
+Presidente Hayes
+San Pedro
+San Pedro
+Amazonas
+Ancash
+Ancash
+Ancash
+Ancash
+Apur?mac
+Arequipa
+Arequipa
+Arequipa
+Ayacucho
+Ayacucho
+Ayacucho
+Ayacucho
+Cajamarca
+Cajamarca
+Cajamarca
+Cajamarca
+Callao
+Callao
+Callao
+Callao
+Callao
+Callao
+Cusco
+Cusco
+Cusco
+Cusco
+Huancavelica
+Hu?nuco
+Hu?nuco
+Hu?nuco
+Ica
+Ica
+Ica
+Ica
+Ica
+Jun?n
+Jun?n
+Jun?n
+Jun?n
+Jun?n
+Jun?n
+Jun?n
+La Libertad
+La Libertad
+La Libertad
+La Libertad
+Lambayeque
+Lambayeque
+Lambayeque
+Lambayeque
+Lambayeque
+Lima
+Lima
+Lima
+Lima
+Lima
+Lima
+Lima
+Loreto
+Loreto
+Loreto
+Loreto
+Loreto
+Loreto
+Loreto
+Loreto
+Loreto
+Loreto
+Madre de Dios
+Moquegua
+Moquegua
+Pasco
+Piura
+Piura
+Piura
+Piura
+Piura
+Piura
+San Mart?n
+San Mart?n
+San Mart?n
+San Mart?n
+San Mart?n
+Tacna
+Tumbes
+Ucayali
+Agusan del Norte
+Albay
+Batangas
+Benguet
+Cagayan
+Camarines Sur
+Capiz
+Cebu
+Davao del Norte
+Davao Del Sur
+Dinagat Islands
+Ilocos Norte
+Ilocos Sur
+Iloilo
+Laguna
+Lanao del Norte
+Leyte
+Leyte
+Metropolitan Manila
+Metropolitan Manila
+Metropolitan Manila
+Misamis Occidental
+Misamis Oriental
+Misamis Oriental
+Negros Occidental
+Negros Occidental
+Nueva Ecija
+Palawan
+Pampanga
+Pangasinan
+Samar
+Shariff Kabunsuan
+South Cotabato
+Tarlac
+Zambales
+Zamboanga Del Sur
+Zamboanga del Sur
+Greater Poland
+Kuyavian-Pomeranian
+Kuyavian-Pomeranian
+Kuyavian-Pomeranian
+NULL
+NULL
+Lower Silesian
+Lublin
+Lubusz
+Masovian
+Opole
+Podlachian
+Pomeranian
+Pomeranian
+Silesian
+Silesian
+Silesian
+Subcarpathian
+Swietokrzyskie
+Warmian-Masurian
+Warmian-Masurian
+Warmian-Masurian
+West Pomeranian
+West Pomeranian
+Aveiro
+Azores
+Azores
+Azores
+Braga
+Bragan?a
+Castelo Branco
+Castelo Branco
+Coimbra
+?vora
+Faro
+Faro
+Guarda
+Leiria
+Lisboa
+Lisboa
+Madeira
+Portalegre
+Porto
+Santar?m
+Viana do Castelo
+Vila Real
+Viseu
+
+
+
+
+Ad Dawhah
+Alba
+Arad
+Arges
+Bacau
+Bihor
+Bistrita-Nasaud
+Botosani
+Braila
+Brasov
+Bucharest
+Buzau
+Calarasi
+Caras-Severin
+Cluj
+Constanta
+Constanta
+Covasna
+D?mbovita
+Dolj
+Galati
+Giurgiu
+Gorj
+Harghita
+Hunedoara
+Ialomita
+Iasi
+Maramures
+Mehedinti
+Mures
+Neamt
+Olt
+Prahova
+Salaj
+Satu Mare
+Sibiu
+Suceava
+Timis
+V?lcea
+Vaslui
+Vrancea
+Adygey
+Aga Buryat
+Altay
+Altay
+Altay
+Altay
+Altay
+Altay
+Altay
+Altay
+Altay
+Altay
+Amur
+Amur
+Amur
+Amur
+Amur
+Amur
+Amur
+Amur
+Amur
+Amur
+Arkhangel'sk
+Arkhangel'sk
+Arkhangel'sk
+Arkhangel'sk
+Arkhangel'sk
+Arkhangel'sk
+Arkhangel'sk
+Arkhangel'sk
+Arkhangel'sk
+Astrakhan'
+Astrakhan'
+Bashkortostan
+Bashkortostan
+Bashkortostan
+Bashkortostan
+Bashkortostan
+Bashkortostan
+Bashkortostan
+Bashkortostan
+Bashkortostan
+Bashkortostan
+Belgorod
+Belgorod
+Belgorod
+Belgorod
+Belgorod
+Belgorod
+Bryansk
+Bryansk
+Bryansk
+Bryansk
+Buryat
+Buryat
+Buryat
+Buryat
+Buryat
+Buryat
+Buryat
+Chechnya
+Chelyabinsk
+Chelyabinsk
+Chelyabinsk
+Chelyabinsk
+Chelyabinsk
+Chelyabinsk
+Chelyabinsk
+Chelyabinsk
+Chelyabinsk
+Chelyabinsk
+Chelyabinsk
+Chelyabinsk
+Chita
+Chita
+Chita
+Chita
+Chita
+Chita
+Chita
+Chita
+Chita
+Chita
+Chita
+Chukchi Autonomous Okrug
+Chukchi Autonomous Okrug
+Chukchi Autonomous Okrug
+Chukchi Autonomous Okrug
+Chukchi Autonomous Okrug
+Chukchi Autonomous Okrug
+Chukchi Autonomous Okrug
+Chukchi Autonomous Okrug
+Chukchi Autonomous Okrug
+Chukchi Autonomous Okrug
+Chukchi Autonomous Okrug
+Chukchi Autonomous Okrug
+Chukchi Autonomous Okrug
+Chukchi Autonomous Okrug
+Chuvash
+Chuvash
+Chuvash
+Chuvash
+City of St. Petersburg
+Dagestan
+Dagestan
+Dagestan
+Dagestan
+Evenk
+Gorno-Altay
+Ingush
+Irkutsk
+Irkutsk
+Irkutsk
+Irkutsk
+Irkutsk
+Irkutsk
+Irkutsk
+Irkutsk
+Irkutsk
+Irkutsk
+Irkutsk
+Irkutsk
+Irkutsk
+Irkutsk
+Irkutsk
+Irkutsk
+Irkutsk
+Irkutsk
+Irkutsk
+Ivanovo
+Ivanovo
+Ivanovo
+Ivanovo
+Kabardin-Balkar
+Kaliningrad
+Kaliningrad
+Kalmyk
+Kaluga
+Kaluga
+Kamchatka
+Kamchatka
+Kamchatka
+Kamchatka
+Kamchatka
+Kamchatka
+Kamchatka
+Kamchatka
+Kamchatka
+Kamchatka
+Kamchatka
+Karachay-Cherkess
+Karelia
+Karelia
+Karelia
+Karelia
+Karelia
+Kemerovo
+Kemerovo
+Kemerovo
+Kemerovo
+Kemerovo
+Kemerovo
+Kemerovo
+Kemerovo
+Kemerovo
+Kemerovo
+Kemerovo
+Kemerovo
+Khabarovsk
+Khabarovsk
+Khabarovsk
+Khabarovsk
+Khabarovsk
+Khabarovsk
+Khabarovsk
+Khabarovsk
+Khabarovsk
+Khabarovsk
+Khabarovsk
+Khabarovsk
+Khabarovsk
+Khabarovsk
+Khabarovsk
+Khakass
+Khakass
+Khakass
+Khanty-Mansiy
+Khanty-Mansiy
+Khanty-Mansiy
+Khanty-Mansiy
+Khanty-Mansiy
+Khanty-Mansiy
+Khanty-Mansiy
+Khanty-Mansiy
+Khanty-Mansiy
+Khanty-Mansiy
+Khanty-Mansiy
+Khanty-Mansiy
+Khanty-Mansiy
+Kirov
+Kirov
+Kirov
+Kirov
+Kirov
+Kirov
+Kirov
+Komi
+Komi
+Komi
+Komi
+Komi
+Komi
+Komi
+Komi
+Komi-Permyak
+Koryak
+Kostroma
+Kostroma
+Kostroma
+Krasnodar
+Krasnodar
+Krasnodar
+Krasnodar
+Krasnodar
+Krasnodar
+Krasnodar
+Krasnodar
+Krasnodar
+Krasnodar
+Krasnodar
+Krasnodar
+Krasnoyarsk
+Krasnoyarsk
+Krasnoyarsk
+Krasnoyarsk
+Krasnoyarsk
+Krasnoyarsk
+Krasnoyarsk
+Krasnoyarsk
+Krasnoyarsk
+Krasnoyarsk
+Krasnoyarsk
+Krasnoyarsk
+Krasnoyarsk
+Krasnoyarsk
+Krasnoyarsk
+Krasnoyarsk
+Krasnoyarsk
+Kurgan
+Kurgan
+Kurgan
+Kursk
+Kursk
+Kursk
+Leningrad
+Leningrad
+Leningrad
+Leningrad
+Leningrad
+Leningrad
+Leningrad
+Lipetsk
+Lipetsk
+Lipetsk
+Maga Buryatdan
+Maga Buryatdan
+Maga Buryatdan
+Maga Buryatdan
+Maga Buryatdan
+Maga Buryatdan
+Maga Buryatdan
+Maga Buryatdan
+Mariy-El
+Mordovia
+Mordovia
+Moskovsskaya
+Moskovsskaya
+Moskovsskaya
+Moskovsskaya
+Moskovsskaya
+Moskovsskaya
+Moskovsskaya
+Moskovsskaya
+Moskovsskaya
+Moskva
+Murmansk
+Murmansk
+Murmansk
+Murmansk
+Murmansk
+Murmansk
+Murmansk
+Murmansk
+Murmansk
+Murmansk
+Nenets
+Nenets
+Nenets
+Nenets
+Nenets
+Nenets
+Nizhegorod
+Nizhegorod
+Nizhegorod
+Nizhegorod
+Nizhegorod
+North Ossetia
+North Ossetia
+Novgorod
+Novgorod
+Novgorod
+Novosibirsk
+Novosibirsk
+Novosibirsk
+Novosibirsk
+Novosibirsk
+Novosibirsk
+Novosibirsk
+Novosibirsk
+Novosibirsk
+Novosibirsk
+Omsk
+Omsk
+Omsk
+Omsk
+Omsk
+Omsk
+Orel
+Orel
+Orel
+Orenburg
+Orenburg
+Orenburg
+Orenburg
+Orenburg
+Orenburg
+Orenburg
+Orenburg
+Orenburg
+Penza
+Penza
+Penza
+Penza
+Perm'
+Perm'
+Perm'
+Perm'
+Perm'
+Perm'
+Perm'
+Perm'
+Primor'ye
+Primor'ye
+Primor'ye
+Primor'ye
+Primor'ye
+Primor'ye
+Primor'ye
+Primor'ye
+Primor'ye
+Pskov
+Pskov
+Rostov
+Rostov
+Rostov
+Rostov
+Rostov
+Rostov
+Rostov
+Rostov
+Rostov
+Rostov
+Ryazan'
+Ryazan'
+Ryazan'
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakha (Yakutia)
+Sakhalin
+Sakhalin
+Sakhalin
+Sakhalin
+Sakhalin
+Sakhalin
+Sakhalin
+Sakhalin
+Sakhalin
+Sakhalin
+Sakhalin
+Sakhalin
+Sakhalin
+Samara
+Samara
+Samara
+Samara
+Samara
+Samara
+Saratov
+Saratov
+Saratov
+Saratov
+Saratov
+Saratov
+Saratov
+Saratov
+Smolensk
+Smolensk
+Smolensk
+Smolensk
+Stavropol'
+Stavropol'
+Stavropol'
+Stavropol'
+Stavropol'
+Stavropol'
+Stavropol'
+Sverdlovsk
+Sverdlovsk
+Sverdlovsk
+Sverdlovsk
+Sverdlovsk
+Sverdlovsk
+Sverdlovsk
+Sverdlovsk
+Sverdlovsk
+Sverdlovsk
+Sverdlovsk
+Sverdlovsk
+Sverdlovsk
+Sverdlovsk
+Sverdlovsk
+Sverdlovsk
+Sverdlovsk
+Sverdlovsk
+Sverdlovsk
+Tambov
+Tambov
+Tambov
+Tambov
+Tambov
+Tatarstan
+Tatarstan
+Tatarstan
+Tatarstan
+Tatarstan
+Tatarstan
+Tatarstan
+Tatarstan
+Taymyr
+Taymyr
+Taymyr
+Taymyr
+Taymyr
+Taymyr
+Taymyr
+Taymyr
+Taymyr
+Taymyr
+Taymyr
+Tomsk
+Tomsk
+Tomsk
+Tomsk
+Tomsk
+Tula
+Tula
+Tula
+Tula
+Tula
+Tula
+Tuva
+Tuva
+Tver'
+Tver'
+Tver'
+Tver'
+Tver'
+Tver'
+Tver'
+Tver'
+Tyumen'
+Tyumen'
+Tyumen'
+Tyumen'
+Tyumen'
+Udmurt
+Udmurt
+Udmurt
+Udmurt
+Udmurt
+Ul'yanovsk
+Ul'yanovsk
+Ust-Orda Buryat
+Vladimir
+Vladimir
+Vladimir
+Volgograd
+Volgograd
+Volgograd
+Volgograd
+Volgograd
+Volgograd
+Volgograd
+Volgograd
+Vologda
+Vologda
+Vologda
+Vologda
+Voronezh
+Voronezh
+Yamal-Nenets
+Yamal-Nenets
+Yamal-Nenets
+Yamal-Nenets
+Yamal-Nenets
+Yamal-Nenets
+Yamal-Nenets
+Yamal-Nenets
+Yamal-Nenets
+Yaroslavl'
+Yaroslavl'
+Yaroslavl'
+Yaroslavl'
+Yevrey
+Yevrey
+Eastern
+Kigali City
+Northern
+Northern
+Southern
+Southern
+Southern
+Southern
+Western
+Western
+Western
+
+
+
+
+
+
+
+`Asir
+`Asir
+Al Hudud ash Shamaliyah
+Al Hudud ash Shamaliyah
+Al Jawf
+Al Jawf
+Al Jawf
+Al Madinah
+Al Madinah
+Al Quassim
+Ar Riyad
+Ar Riyad
+Ar Riyad
+Ar Riyad
+Ar Riyad
+Ash Sharqiyah
+Ash Sharqiyah
+Ash Sharqiyah
+Ash Sharqiyah
+Ash Sharqiyah
+Ash Sharqiyah
+Ash Sharqiyah
+Ha'il
+Jizan
+Makkah
+Makkah
+Makkah
+Makkah
+Najran
+Tabuk
+Tabuk
+Dakar
+Diourbel
+Fatick
+Kaolack
+Kolda
+Louga
+Matam
+Tambacounda
+Tambacounda
+Thi?s
+Ziguinchor
+Grad Beograd
+Ju?no-Backi
+Moravicki
+Ni?avski
+Severno-Backi
+Srednje-Banatski
+?umadijski
+
+Eastern
+Eastern
+Northern
+Southern
+Western
+
+Banskobystrick?
+Banskobystrick?
+Bratislavsk?
+Ko?ick?
+Pre?ov
+Trnavsk?
+?ilinsk?
+Maribor
+Osrednjeslovenska
+Choiseul
+Guadalcanal
+Temotu
+Bakool
+Banaadir
+Bari
+Bari
+Bari
+Bari
+Bari
+Bay
+Bay
+Galguduud
+Galguduud
+Gedo
+Gedo
+Gedo
+Hiiraan
+Hiiraan
+Jubbada Dhexe
+Jubbada Hoose
+Jubbada Hoose
+Jubbada Hoose
+Mudug
+Nugaal
+Nugaal
+Shabeellaha Dhexe
+Shabeellaha Hoose
+
+
+
+
+
+
+
+Eastern Cape
+Eastern Cape
+Eastern Cape
+Eastern Cape
+Eastern Cape
+Eastern Cape
+Eastern Cape
+Eastern Cape
+Eastern Cape
+Eastern Cape
+Eastern Cape
+Eastern Cape
+Eastern Cape
+Gauteng
+Gauteng
+Gauteng
+Gauteng
+Gauteng
+KwaZulu-Natal
+KwaZulu-Natal
+KwaZulu-Natal
+KwaZulu-Natal
+KwaZulu-Natal
+KwaZulu-Natal
+KwaZulu-Natal
+Limpopo
+Limpopo
+Limpopo
+Limpopo
+Limpopo
+Mpumalanga
+Mpumalanga
+Mpumalanga
+Mpumalanga
+Mpumalanga
+Mpumalanga
+North West
+North West
+North West
+North West
+North West
+North West
+North West
+Northern Cape
+Northern Cape
+Northern Cape
+Northern Cape
+Northern Cape
+Northern Cape
+Northern Cape
+Northern Cape
+Northern Cape
+Northern Cape
+Orange Free State
+Orange Free State
+Orange Free State
+Orange Free State
+Orange Free State
+Western Cape
+Western Cape
+Western Cape
+Western Cape
+Western Cape
+Western Cape
+Western Cape
+Western Cape
+Western Cape
+Western Cape
+Western Cape
+Western Cape
+
+Busan
+Chungcheongbuk-do
+Chungcheongbuk-do
+Daegu
+Daegu
+Daegu
+Daejeon
+Gangwon-do
+Gangwon-do
+Gangwon-do
+Gangwon-do
+Gwangju
+Gwangju
+Gyeonggi-do
+Gyeonggi-do
+Gyeonggi-do
+Gyeonggi-do
+Gyeonggi-do
+Gyeongsangnam-do
+Inch'on-gwangyoksi
+Jeju
+Jeollabuk-do
+Jeollabuk-do
+Jeollabuk-do
+Kwangju-gwangyoksi
+Seoul
+Taegu-gwangyoksi
+Ulsan
+Central Equatoria
+Central Equatoria
+East Equatoria
+East Equatoria
+Jungoli
+Lakes
+North Bahr-al-Ghazal
+Unity
+Upper Nile
+Upper Nile
+Upper Nile
+Warap
+West Bahr-al-Ghazal
+West Equatoria
+West Equatoria
+Andaluc?a
+Andaluc?a
+Andaluc?a
+Andaluc?a
+Andaluc?a
+NULL
+Andaluc?a
+Andaluc?a
+Andaluc?a
+Andaluc?a
+Andaluc?a
+"Arag?n
+Santander"
+"Castilla y Le?n
+Salamanca"
+Castilla-La Mancha
+"Catalu?a
+Tarragona"
+Comunidad de Madrid
+Comunidad Foral de Navarra
+Comunidad Valenciana
+Comunidad Valenciana
+Extremadura
+Galicia
+NULL
+Galicia
+Galicia
+Islas Baleares
+La Rioja
+Melilla
+Pa?s Vasco
+NULL
+Pa?s Vasco
+Principado de Asturias
+Principado de Asturias
+Regi?n de Murcia
+Regi?n de Murcia
+Regi?n de Murcia
+
+
+
+Anuradhapura
+Badulla
+Batticaloa
+Colombo
+Colombo
+Colombo
+Galle
+Jaffna
+Kandy
+Kilinochchi
+Matara
+Puttalam
+Ratnapura
+Trincomalee
+Blue Nile
+Gedarif
+Gezira
+Gezira
+Kassala
+Khartoum
+Khartoum
+North Kurdufan
+North Kurdufan
+Northern
+Northern
+Northern
+Northern
+Northern Darfur
+Red Sea
+Red Sea
+Red Sea
+River Nile
+River Nile
+River Nile
+River Nile
+Sennar
+South Darfur
+South Kordofan
+South Kordofan
+South Kordofan
+South Kordufan
+West Darfur
+White Nile
+White Nile
+Brokopondo
+Brokopondo
+Commewijne
+Coronie
+Marowijne
+Nickerie
+Para
+Paramaribo
+Saramacca
+Sipaliwini
+Svalbard
+Hhohho
+Hhohho
+Lubombo
+Manzini
+Manzini
+Shiselweni
+Shiselweni
+Blekinge
+Dalarna
+Dalarna
+NULL
+G?vleborg
+Gotland
+Halland
+J?mtland
+J?nk?ping
+Kalmar
+Kronoberg
+Norrbotten
+NULL
+Orebro
+?sterg?tland
+?sterg?tland
+Sk?ne
+Sk?ne
+Sk?ne
+S?dermanland
+Stockholm
+Uppsala
+V?rmland
+NULL
+NULL
+V?sternorrland
+V?sternorrland
+V?sternorrland
+NULL
+V?stra G?taland
+V?stra G?taland
+V?stra G?taland
+NULL
+V?stra G?taland
+Aargau
+Appenzell Ausserrhoden
+Appenzell Innerrhoden
+Basel-Landschaft
+Basel-Stadt
+Bern
+Bern
+Fribourg
+Gen?ve
+Glarus
+Graub?nden
+Jura
+Lucerne
+Neuch?tel
+Nidwalden
+Obwalden
+Sankt Gallen
+Schaffhausen
+Schwyz
+Solothurn
+Thurgau
+Ticino
+Ticino
+Uri
+Valais
+Vaud
+Zug
+Z?rich
+Aleppo (Halab)
+Aleppo (Halab)
+Aleppo (Halab)
+Ar Raqqah
+Ar Raqqah
+As Suwayda'
+Damascus
+Damascus
+Damascus
+Dar`a
+Dayr Az Zawr
+Dayr Az Zawr
+Golan
+Hamah
+Hasaka (Al Haksa)
+Hasaka (Al Haksa)
+Homs (Hims)
+Homs (Hims)
+Idlib
+Lattakia (Al Ladhiqiyah)
+Tartus
+Changhua
+Chiayi
+Chiayi
+Chiayi City
+Hsinchu
+Hsinchu City
+Hualien
+Kaohsiung City
+Keelung City
+Miaoli
+Nantou
+New Taipei City
+Penghu
+Pingtung
+Taichung City
+Tainan City
+Taipei City
+Taitung
+Taoyuan
+Taoyuan
+Taoyuan
+Taoyuan
+Taoyuan
+Yilan
+Yunlin
+Gorno-Badakhshan
+Khatlon
+Khatlon
+Khatlon
+Leninabad
+Leninabad
+Leninabad
+Leninabad
+Tadzhikistan Territories
+Arusha
+Arusha
+Arusha
+Arusha
+Arusha
+Dar-Es-Salaam
+Dodoma
+Dodoma
+Iringa
+Iringa
+Kagera
+Kagera
+Kagera
+Kaskazini-Pemba
+Kaskazini-Unguja
+Kigoma
+Kigoma
+Kigoma
+Kigoma
+Kigoma
+Kilimanjaro
+Kilimanjaro
+Kusini-Pemba
+Lindi
+Mara
+Mbeya
+Mbeya
+Mbeya
+Morogoro
+Morogoro
+Morogoro
+Morogoro
+Mtwara
+Mtwara
+Mwanza
+Mwanza
+Mwanza
+Pwani
+Pwani
+Pwani
+Pwani
+Rukwa
+Rukwa
+Rukwa
+Rukwa
+Ruvuma
+Ruvuma
+Ruvuma
+Shinyanga
+Shinyanga
+Singida
+Singida
+Singida
+Tabora
+Tabora
+Tabora
+Tanga
+Tanga
+Zanzibar West
+Ang Thong
+Bangkok Metropolis
+Buri Ram
+Chachoengsao
+Chai Nat
+Chaiyaphum
+Chanthaburi
+Chiang Mai
+Chiang Rai
+Chon Buri
+Chon Buri
+Chumphon
+Kalasin
+Kamphaeng Phet
+Kanchanaburi
+Khon Kaen
+Krabi
+Lampang
+Lamphun
+Loei
+Lop Buri
+Mae Hong Son
+Maha Sarakham
+Nakhon Nayok
+Nakhon Pathom
+Nakhon Phanom
+Nakhon Ratchasima
+Nakhon Ratchasima
+Nakhon Sawan
+Nakhon Si Thammarat
+Nakhon Si Thammarat
+Nan
+Narathiwat
+Nong Khai
+Nonthaburi
+Pathum Thani
+Pattani
+Phangnga
+Phatthalung
+Phayao
+Phetchabun
+Phetchaburi
+Phichit
+Phitsanulok
+Phra Nakhon Si Ayutthaya
+Phrae
+Phuket
+Prachin Buri
+Prachuap Khiri Khan
+Prachuap Khiri Khan
+Ranong
+Ratchaburi
+Rayong
+Roi Et
+Sa Kaeo
+Sakon Nakhon
+Samut Prakan
+Samut Sakhon
+Samut Songkhram
+Saraburi
+Satun
+Si Sa Ket
+Sing Buri
+Songkhla
+Songkhla (Songkhla Lake)
+Sukhothai
+Suphan Buri
+Surat Thani
+Surin
+Tak
+Tak
+Trang
+Trat
+Ubon Ratchathani
+Udon Thani
+Uthai Thani
+Uttaradit
+Yala
+Yasothon
+
+Banjul
+Banjul
+Lower River
+Lower River
+Maccarthy Island
+Maccarthy Island
+Upper River
+Centre
+Centre
+Kara
+Maritime
+Plateaux
+Plateaux
+
+
+Port of Spain
+San Fernando
+B?ja
+Bizerte
+Gab?s
+Gafsa
+Jendouba
+Kairouan
+Kass?rine
+Kass?rine
+Kebili
+Le Kef
+Mahdia
+Manubah
+M?denine
+M?denine
+M?denine
+Monastir
+Nabeul
+Sfax
+Sidi Bou Zid
+Siliana
+Sousse
+Tataouine
+Tataouine
+Tozeur
+Tunis
+Zaghouan
+Adana
+Adiyaman
+Afyon
+Agri
+Amasya
+Ankara
+Ankara
+Antalya
+Artvin
+Aydin
+Aydin
+Balikesir
+Batman
+Bilecik
+Bing?l
+Bitlis
+Bitlis
+Bolu
+Burdur
+Bursa
+?anakkale
+?ankiri
+?orum
+Denizli
+Diyarbakir
+Edirne
+Elazig
+Erzincan
+Erzurum
+Eskisehir
+Gaziantep
+Gaziantep
+Giresun
+G?m?shane
+Hakkari
+Hatay
+Hatay
+Hatay
+Hatay
+Isparta
+Istanbul
+Izmir
+K. Maras
+Karaman
+Kars
+Kastamonu
+Kayseri
+Kinkkale
+Kirklareli
+Kirklareli
+Kirsehir
+Kocaeli
+Konya
+Konya
+K?tahya
+Malatya
+Manisa
+Mardin
+Mardin
+Mersin
+Mersin
+Mugla
+Mus
+Nevsehir
+Nigde
+Ordu
+Rize
+Sakarya
+Sakarya
+Samsun
+Samsun
+Sanliurfa
+Siirt
+Sinop
+Sivas
+Tekirdag
+Tokat
+Trabzon
+Tunceli
+Usak
+Van
+Yozgat
+Zinguldak
+Zinguldak
+Ahal
+Ahal
+Ahal
+Ahal
+Balkan
+Balkan
+Balkan
+Balkan
+Chardzhou
+Chardzhou
+Mary
+Tashauz
+Tashauz
+
+
+Adjumani
+Arua Municipality
+Aswa
+Bamunanika
+Budadiri
+Bungokho
+Busia
+Busujju
+Iganga
+Jinja
+Kaabong
+Kabale
+Kabarole
+Kaberamaido
+Kalangala
+Kampala
+Kamuli
+Kasese
+Kasese
+Kashari
+Kayunga
+Kibale
+Kiboga
+Kisoro
+Kitgum
+Kumi
+Lira
+Masaka
+Masindi
+Masindi
+Moroto
+Moyo
+Mpigi
+Mubende
+Nakasongola
+Nebbi
+Nebbi
+Ntungamo
+Pallisa
+Soroti
+Tororo
+Usuk
+Wakiso
+Cherkasy
+Cherkasy
+Chernihiv
+Chernihiv
+Chernivtsi
+Crimea
+Crimea
+Crimea
+Crimea
+Crimea
+Crimea
+Crimea
+Dnipropetrovs'k
+Dnipropetrovs'k
+Dnipropetrovs'k
+Donets'k
+Donets'k
+Donets'k
+Donets'k
+Donets'k
+Ivano-Frankivs'k
+Kharkiv
+Kharkiv
+Khmel'nyts'kyy
+Khmel'nyts'kyy
+Kiev
+Kiev
+Kiev
+Kiev
+Kirovohrad
+Luhans'k
+Luhans'k
+L'viv
+L'viv
+Mykolayiv
+Mykolayiv
+Odessa
+Odessa
+Poltava
+Poltava
+Rivne
+Sumy
+Sumy
+Sumy
+Ternopil'
+Transcarpathia
+Vinnytsya
+Volyn
+Volyn
+Zaporizhzhya
+Zaporizhzhya
+Zaporizhzhya
+Zhytomyr
+Zhytomyr
+Abu Dhabi
+Abu Dhabi
+Dubay
+Dubay
+Fujayrah
+Ras Al Khaymah
+Sharjah
+Umm Al Qaywayn
+Aberdeen
+Bath and North East Somerset
+Belfast
+Bournemouth
+Brighton and Hove
+Cambridgeshire
+Cardiff
+Cheshire
+Cornwall
+Cumbria
+Derry
+Devon
+Dumfries and Galloway
+Dundee
+Dungannon
+Edinburgh
+Highland
+Highland
+Highland
+Inverclyde
+Kingston upon Hull
+Lancashire
+Leicester
+Luton
+Merseyside
+Moray
+Norfolk
+North Yorkshire
+Nottingham
+Omagh
+Oxfordshire
+Oxfordshire
+Perthshire and Kinross
+Peterborough
+Plymouth
+Portsmouth
+South Ayrshire
+South Yorkshire
+Southampton
+Southend-on-Sea
+Stockton-on-Tees
+Stoke-on-Trent
+Suffolk
+Swansea
+Tyne and Wear
+Tyne and Wear
+West Midlands
+West Yorkshire
+West Yorkshire
+Alabama
+Alabama
+Alabama
+Alabama
+Alabama
+Alabama
+Alabama
+Alabama
+Alabama
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Alaska
+Arizona
+Arizona
+Arizona
+Arizona
+Arizona
+Arizona
+Arizona
+Arizona
+Arizona
+Arizona
+Arizona
+Arizona
+Arizona
+Arizona
+Arizona
+Arizona
+Arizona
+Arizona
+Arkansas
+Arkansas
+Arkansas
+Arkansas
+Arkansas
+Arkansas
+Arkansas
+Arkansas
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+California
+Colorado
+Colorado
+Colorado
+Colorado
+Colorado
+Colorado
+Colorado
+Colorado
+Colorado
+Colorado
+Colorado
+Colorado
+Colorado
+Connecticut
+Connecticut
+Connecticut
+Connecticut
+Connecticut
+Connecticut
+Delaware
+District of Columbia
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Florida
+Georgia
+Georgia
+Georgia
+Georgia
+Georgia
+Georgia
+Georgia
+Georgia
+Georgia
+Georgia
+Georgia
+Georgia
+Hawaii
+Hawaii
+Hawaii
+Hawaii
+Hawaii
+Hawaii
+Idaho
+Idaho
+Idaho
+Idaho
+Idaho
+Idaho
+Idaho
+Idaho
+Idaho
+Illinois
+Illinois
+Illinois
+Illinois
+Illinois
+Illinois
+Illinois
+Illinois
+Illinois
+Illinois
+Illinois
+Illinois
+Illinois
+Illinois
+Illinois
+Illinois
+Illinois
+Illinois
+Indiana
+Indiana
+Indiana
+Indiana
+Indiana
+Indiana
+Indiana
+Indiana
+Indiana
+Indiana
+Indiana
+Indiana
+Indiana
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Iowa
+Kansas
+Kansas
+Kansas
+Kansas
+Kansas
+Kansas
+Kansas
+Kansas
+Kansas
+Kansas
+Kansas
+Kansas
+Kentucky
+Kentucky
+Kentucky
+Kentucky
+Kentucky
+Kentucky
+Kentucky
+Kentucky
+Kentucky
+Louisiana
+Louisiana
+Louisiana
+Louisiana
+Louisiana
+Louisiana
+Louisiana
+Louisiana
+Louisiana
+Louisiana
+Louisiana
+Maine
+Maine
+Maine
+Maine
+Maine
+Maine
+Maine
+Maine
+Maryland
+Maryland
+Maryland
+Maryland
+Massachusetts
+Massachusetts
+Massachusetts
+Massachusetts
+Massachusetts
+Michigan
+Michigan
+Michigan
+Michigan
+Michigan
+Michigan
+Michigan
+Michigan
+Michigan
+Michigan
+Michigan
+Michigan
+Michigan
+Michigan
+Michigan
+Michigan
+Michigan
+Michigan
+Michigan
+Michigan
+Michigan
+Minnesota
+Minnesota
+Minnesota
+Minnesota
+Minnesota
+Minnesota
+Minnesota
+Minnesota
+Minnesota
+Minnesota
+Minnesota
+Minnesota
+Minnesota
+Minnesota
+Minnesota
+Minnesota
+Mississippi
+Mississippi
+Mississippi
+Mississippi
+Mississippi
+Mississippi
+Mississippi
+Mississippi
+Mississippi
+Missouri
+Missouri
+Missouri
+Missouri
+Missouri
+Missouri
+Missouri
+Missouri
+Missouri
+Missouri
+Montana
+Montana
+Montana
+Montana
+Montana
+Montana
+Montana
+Montana
+Montana
+Montana
+Montana
+Montana
+Montana
+Montana
+Nebraska
+Nebraska
+Nebraska
+Nebraska
+Nebraska
+Nebraska
+Nebraska
+Nebraska
+Nebraska
+Nebraska
+Nevada
+Nevada
+Nevada
+Nevada
+Nevada
+Nevada
+Nevada
+New Hampshire
+New Hampshire
+New Jersey
+New Jersey
+New Jersey
+New Jersey
+New Mexico
+New Mexico
+New Mexico
+New Mexico
+New Mexico
+New Mexico
+New Mexico
+New Mexico
+New Mexico
+New Mexico
+New Mexico
+New Mexico
+New Mexico
+New Mexico
+New Mexico
+New Mexico
+New Mexico
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+New York
+North Carolina
+North Carolina
+North Carolina
+North Carolina
+North Carolina
+North Carolina
+North Carolina
+North Carolina
+North Carolina
+North Carolina
+North Carolina
+North Carolina
+North Carolina
+North Carolina
+North Carolina
+North Carolina
+North Dakota
+North Dakota
+North Dakota
+North Dakota
+North Dakota
+North Dakota
+North Dakota
+North Dakota
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Ohio
+Oklahoma
+Oklahoma
+Oklahoma
+Oklahoma
+Oklahoma
+Oklahoma
+Oklahoma
+Oklahoma
+Oklahoma
+Oklahoma
+Oklahoma
+Oklahoma
+Oklahoma
+Oklahoma
+Oregon
+Oregon
+Oregon
+Oregon
+Oregon
+Oregon
+Oregon
+Oregon
+Oregon
+Oregon
+Oregon
+Oregon
+Oregon
+Oregon
+Oregon
+Oregon
+Oregon
+Oregon
+Pennsylvania
+Pennsylvania
+Pennsylvania
+Pennsylvania
+Pennsylvania
+Pennsylvania
+Pennsylvania
+Pennsylvania
+Pennsylvania
+Pennsylvania
+Pennsylvania
+Pennsylvania
+Pennsylvania
+Pennsylvania
+Rhode Island
+Rhode Island
+South Carolina
+South Carolina
+South Carolina
+South Carolina
+South Carolina
+South Carolina
+South Carolina
+South Carolina
+South Carolina
+South Carolina
+South Dakota
+South Dakota
+South Dakota
+South Dakota
+South Dakota
+South Dakota
+South Dakota
+South Dakota
+Tennessee
+Tennessee
+Tennessee
+Tennessee
+Tennessee
+Tennessee
+Tennessee
+Tennessee
+Tennessee
+Tennessee
+Tennessee
+Tennessee
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Texas
+Utah
+Utah
+Utah
+Utah
+Utah
+Utah
+Utah
+Utah
+Utah
+Utah
+Utah
+Utah
+Utah
+Utah
+Vermont
+Vermont
+Virginia
+Virginia
+Virginia
+Virginia
+Virginia
+Virginia
+Virginia
+Virginia
+Virginia
+Virginia
+Virginia
+Virginia
+Virginia
+Virginia
+Virginia
+Washington
+Washington
+Washington
+Washington
+Washington
+Washington
+Washington
+Washington
+Washington
+Washington
+Washington
+Washington
+Washington
+Washington
+Washington
+Washington
+West Virginia
+West Virginia
+West Virginia
+West Virginia
+West Virginia
+West Virginia
+West Virginia
+West Virginia
+Wisconsin
+Wisconsin
+Wisconsin
+Wisconsin
+Wisconsin
+Wisconsin
+Wisconsin
+Wisconsin
+Wisconsin
+Wisconsin
+Wisconsin
+Wisconsin
+Wisconsin
+Wisconsin
+Wisconsin
+Wisconsin
+Wisconsin
+Wisconsin
+Wyoming
+Wyoming
+Wyoming
+Wyoming
+Wyoming
+Wyoming
+Wyoming
+Wyoming
+Wyoming
+Wyoming
+Wyoming
+Wyoming
+
+Artigas
+Artigas
+Artigas
+Canelones
+Canelones
+Cerro Largo
+Colonia
+Colonia
+Durazno
+Flores
+Florida
+Lavalleja
+Lavalleja
+Maldonado
+Maldonado
+Maldonado
+Montevideo
+Paysand?
+R?o Negro
+Rivera
+Rivera
+Rocha
+Rocha
+Rocha
+Rocha
+Salto
+"San Jos?
+Mercedes"
+"Tacuaremb?
+Paso de los Toros"
+Treinta y Tres
+Andijon
+Bukhoro
+Bukhoro
+Ferghana
+Ferghana
+Jizzakh
+Karakalpakstan
+Karakalpakstan
+Karakalpakstan
+Karakalpakstan
+Karakalpakstan
+Kashkadarya
+Kashkadarya
+Khorezm
+Khorezm
+Namangan
+Navoi
+Navoi
+Samarkand
+Samarkand
+Samarkand
+Sirdaryo
+Surkhandarya
+Surkhandarya
+Tashkent
+Tashkent
+Tashkent
+Tashkent
+Tashkent
+Sanma
+Shefa
+Lazio
+Amazonas
+Amazonas
+Anzo?tegui
+Anzo?tegui
+Anzo?tegui
+Anzo?tegui
+Anzo?tegui
+Apure
+Apure
+Aragua
+Barinas
+Bol?var
+Bol?var
+Bol?var
+Bol?var
+Bol?var
+Carabobo
+Carabobo
+Cojedes
+Distrito Capital
+Distrito Capital
+"Falc?n
+Punto Fijo"
+Gu?rico
+Gu?rico
+Gu?rico
+Gu?rico
+Lara
+Lara
+M?rida
+Miranda
+Monagas
+Monagas
+Nueva Esparta
+Nueva Esparta
+Portuguesa
+Portuguesa
+Sucre
+Sucre
+T?chira
+Trujillo
+Trujillo
+Trujillo
+Trujillo
+Vargas
+Yaracuy
+Zulia
+Zulia
+Zulia
+An Giang
+An Giang
+B? R?a?V?ng T?u 
+B?c Giang 
+Bac Kan
+B?c Li?u 
+B?n Tre 
+B?nh ??nh 
+B?nh Duong
+B?nh Ph??c 
+B?nh Thu?n 
+C? Mau
+Can Tho
+Cao B?ng
+Da Nang
+Dak Lak
+?i?n Bi?n
+??ng Nai 
+??ng Th?p 
+Gia Lai
+H? Giang
+H? T?y
+Ha Tinh
+H?i D??ng 
+Ho Chi Minh City
+H?a B?nh
+"Kh?nh H?a
+Cam Ranh"
+Kon Tum
+L?m ??ng 
+L?ng S?n
+L?o Cai
+Long An
+Nam ??nh 
+Ngh? An 
+Ninh B?nh
+Ninh Thu?n 
+Ph? Th? 
+Ph? Y?n
+Qu?ng B?nh 
+Qu?ng Ng?i? 
+Qu?ng Ninh
+Qu?ng Ninh 
+Qu?ng Ninh 
+Qu?ng Tr? 
+Qu?ng Tr? 
+S?c Trang
+Son La
+T?y Ninh
+Th?i B?nh
+Th?i Nguy?n
+Th?i Nguy?n
+"Thanh H?a
+Hue"
+Ti?n Giang 
+Tr? Vinh
+Tuy?n Quang
+Vinh Long
+Y?n B?i
+
+`Adan
+Al Bayda'
+Al Bayda'
+Al Hudaydah
+Al Hudaydah
+Al Mahrah
+Al Mahrah
+Amanat Al Asimah
+Dhamar
+Hadramawt
+Hadramawt
+Hadramawt
+Hadramawt
+Hajjah
+Ibb
+Lahij
+Ma'rib
+Sa`dah
+Shabwah
+Ta`izz
+Central
+Central
+Central
+Copperbelt
+Copperbelt
+Copperbelt
+Copperbelt
+Copperbelt
+Copperbelt
+Eastern
+Eastern
+Eastern
+Luapula
+Luapula
+Lusaka
+Northern
+Northern
+Northern
+Northern
+North-Western
+North-Western
+North-Western
+North-Western
+Southern
+Southern
+Southern
+Southern
+Western
+Western
+Western
+Western
+Western
+Western
+Bulawayo
+Harare
+Harare
+Manicaland
+Mashonaland Central
+Mashonaland Central
+Mashonaland West
+Mashonaland West
+Mashonaland West
+Mashonaland West
+Masvingo
+Masvingo
+Matabeleland North
+Matabeleland North
+Matabeleland South
+Matabeleland South
+Matabeleland South
+Midlands
+Midlands
+Midlands
+Andaman and Nicobar Islands
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Assam
+Assam
+Assam
+Assam
+Assam
+Assam
+Assam
+Assam
+Assam
+Assam
+Assam
+Assam
+Assam
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Bihar
+Chandigarh
+Chhattisgarh
+Chhattisgarh
+Chhattisgarh
+Chhattisgarh
+Chhattisgarh
+Chhattisgarh
+Chhattisgarh
+Chhattisgarh
+Chhattisgarh
+Chhattisgarh
+Chhattisgarh
+Chhattisgarh
+Delhi
+Delhi
+Delhi
+Delhi
+Delhi
+Delhi
+Delhi
+Delhi
+Delhi
+Delhi
+Goa
+Goa
+Goa
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Gujarat
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Haryana
+Himachal Pradesh
+Jammu and Kashmir
+Jammu and Kashmir
+Jammu and Kashmir
+Jammu and Kashmir
+Jammu and Kashmir
+Jammu and Kashmir
+Jammu and Kashmir
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Jharkhand
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Karnataka
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Kerala
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Madhya Pradesh
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Maharashtra
+Manipur
+Meghalaya
+Meghalaya
+Mizoram
+Mizoram
+Nagaland
+Nagaland
+Nagaland
+Orissa
+Orissa
+Orissa
+Orissa
+Orissa
+Orissa
+Orissa
+Orissa
+Orissa
+Orissa
+Orissa
+Orissa
+Orissa
+Orissa
+Orissa
+Orissa
+Orissa
+Orissa
+Orissa
+Orissa
+Orissa
+Pondicherry
+Pondicherry
+Pondicherry
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Punjab
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Rajasthan
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tamil Nadu
+Tripura
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttar Pradesh
+Uttaranchal
+Uttaranchal
+Uttaranchal
+Uttaranchal
+Uttaranchal
+Uttaranchal
+Uttaranchal
+Uttaranchal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal
+West Bengal

@@ -1,0 +1,7 @@
+pyinstaller --onefile thirumagal.py
+pyinstaller --onefile --windowed thirumagal.py
+
+pyinstaller --onefile --icon favicon.ico --windowed thirumagal.py
+
+
+http://exactpredictions.in/thirumagal/Thirumagal.zip

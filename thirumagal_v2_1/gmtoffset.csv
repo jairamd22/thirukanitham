@@ -1,0 +1,244 @@
+country_code,country_name,timezone_offset
+AF,Afghanistan,4.5
+AX,Aland Islands ?land Islands,
+AL,Albania,1
+DZ,Algeria,1
+AS,American Samoa,-11
+AD,Andorra,
+AO,Angola,1
+AI,Anguilla,-4
+AQ,Antarctica,
+AG,Antigua and Barbuda,-4
+AR,Argentina,-3
+AM,Armenia,4
+AW,Aruba,
+AU,Australia,
+AT,Austria,1
+AZ,Azerbaijan,4
+BS,Bahamas,-5
+BH,Bahrain,3
+BD,Bangladesh,6
+BB,Barbados,-4
+BY,Belarus,2
+BE,Belgium,1
+BZ,Belize,-6
+BJ,Benin,1
+BM,Bermuda,-4
+BT,Bhutan,6
+BO,Bolivia,-4
+BA,Bosnia and Herzegovina,1
+BW,Botswana,2
+BV,Bouvet Island,
+BR,Brazil,
+IO,British Indian Ocean Territory,
+BN,Brunei Darussalam,
+BG,Bulgaria,2
+BF,Burkina Faso,
+BI,Burundi,2
+KH,Cambodia,7
+CM,Cameroon,1
+CA,Canada,
+CV,Cape Verde,-1
+KY,Cayman Islands,-5
+CF,Central African Republic,1
+TD,Chad,
+CL,Chile,-4
+CN,China,8
+CX,Christmas Island,
+CC,Cocos (Keeling) Islands,
+CO,Colombia,-5
+KM,Comoros,
+CG,Congo,
+CD,Congo,
+CK,Cook Islands,-10
+CR,Costa Rica,-6
+HR,Croatia,1
+CU,Cuba,-5
+CY,Cyprus,2
+CZ,Czech Republic,1
+DK,Denmark,1
+DJ,Djibouti,3
+DM,Dominica,-4
+DO,Dominican Republic,-4
+EC,Ecuador,-5
+EG,Egypt,2
+SV,El Salvador,-6
+GQ,Equatorial Guinea,1
+ER,Eritrea,3
+EE,Estonia,2
+ET,Ethiopia,
+FK,Falkland Islands (Malvinas),
+FO,Faroe Islands,
+FJ,Fiji,12
+FI,Finland,2
+FR,France,1
+GF,French Guiana,-3
+PF,French Polynesia,-10
+TF,French Southern Territories,
+GA,Gabon,1
+GM,Gambia,0
+GE,Georgia,3
+DE,Germany,1
+GH,Ghana,0
+GI,Gibraltar,1
+GR,Greece,2
+GL,Greenland,-3
+GD,Grenada,-4
+GP,Guadeloupe,
+GU,Guam,10
+GT,Guatemala,-6
+GG,Guernsey,0
+GN,Guinea,0
+GW,Guinea-Bissau,
+GY,Guyana,-3
+HT,Haiti,-5
+VA,Holy See (Vatican City State),
+HN,Honduras,-6
+HK,Hong Kong,8
+HU,Hungary,1
+IS,Iceland,0
+IN,India,5.5
+ID,Indonesia,7
+IR,Iran,3.5
+IQ,Iraq,3
+IE,Ireland,0
+IM,Isle of Man,0
+IL,Israel,2
+IT,Italy,1
+JM,Jamaica,-5
+JP,Japan,9
+JE,Jersey,0
+JO,Jordan,2
+KZ,Kazakhstan,6
+KE,Kenya,3
+KI,Kiribati,12
+KP,Korea,9
+KR,South Korea,9
+KW,Kuwait,3
+KG,Kyrgyzstan,6
+LA,Lao People,
+LV,Latvia,2
+LB,Lebanon,2
+LS,Lesotho,2
+LR,Liberia,0
+LY,Libyan Arab Jamahiriya,
+LI,Liechtenstein,1
+LT,Lithuania,2
+LU,Luxembourg,1
+MO,Macao,
+MK,Macedonia,1
+MG,Madagascar,3
+MW,Malawi,2
+MY,Malaysia,8
+MV,Maldives,5
+ML,Mali,
+MT,Malta,1
+MH,Marshall Islands,12
+MQ,Martinique,-4
+MR,Mauritania,
+MU,Mauritius,4
+YT,Mayotte,
+MX,Mexico,6
+FM,Micronesia,11
+MD,Moldova,2
+MC,Monaco,
+MN,Mongolia,8
+ME,Montenegro,1
+MS,Montserrat,-4
+MA,Morocco,0
+MZ,Mozambique,2
+MM,Myanmar,6.5
+NA,Namibia,1
+NR,Nauru,
+NP,Nepal,5.5
+NL,Netherlands,1
+AN,Netherlands Antilles,-4
+NC,New Caledonia,11
+NZ,New Zealand,12
+NI,Nicaragua,-6
+NE,Niger,1
+NG,Nigeria,1
+NU,Niue,-11
+NF,Norfolk Island,11.5
+MP,Northern Mariana Islands,
+NO,Norway,1
+OM,Oman,4
+PK,Pakistan,5
+PW,Palau,9
+PS,"Palestinian Territory, Occupied",
+PA,Panama,-5
+PG,Papua New Guinea,10
+PY,Paraguay,-4
+PE,Peru,-5
+PH,Philippines,8
+PN,Pitcairn,
+PL,Poland,1
+PT,Portugal,0
+PR,Puerto Rico,-4
+QA,Qatar,3
+RE,R?union,
+RO,Romania,2
+RU,Russian Federation,
+RW,Rwanda,2
+BL,Saint Barthlemy,
+SH,Saint Helena,
+KN,Saint Kitts and Nevis,
+LC,Saint Lucia,
+MF,Saint Martin,
+PM,Saint Pierre and Miquelon,
+VC,Saint Vincent and the Grenadines,
+WS,Samoa,
+SM,San Marino,
+ST,Sao Tome and Principe,
+SA,Saudi Arabia,3
+SN,Senegal,0
+RS,Serbia,1
+SC,Seychelles,4
+SL,Sierra Leone,0
+SG,Singapore,8
+SK,Slovakia,1
+SI,Slovenia,1
+SB,Solomon Islands,
+SO,Somalia,3
+ZA,South Africa,2
+GS,South Georgia and the South Sandwich Islands,
+ES,Spain,1
+LK,Sri Lanka,6
+SD,Sudan,2
+SR,Suriname,
+SJ,Svalbard and Jan Mayen,
+SZ,Swaziland,2
+SE,Sweden,1
+CH,Switzerland,1
+SY,Syrian Arab Republic,
+TW,Taiwan,8
+TJ,Tajikistan,6
+TZ,Tanzania,3
+TH,Thailand,7
+TL,Timor-Leste,
+TG,Togo,
+TK,Tokelau,
+TO,Tonga,-11
+TT,Trinidad and Tobago,-4
+TN,Tunisia,1
+TR,Turkey,2
+TM,Turkmenistan,5
+TC,Turks and Caicos Islands,
+TV,Tuvalu,
+UG,Uganda,3
+UA,Ukraine,2
+AE,United Arab Emirates,4
+GB,United Kingdom,0
+US,United States,
+UY,Uruguay,-3
+UZ,Uzbekistan,5
+VU,Vanuatu,11
+VE,Venezuela,-4
+VN,Viet Nam,
+VG,"Virgin Islands, British",
+VI,"Virgin Islands, U.S.",
+WF,Wallis and Futuna,
+EH,Western Sahara,
+YE,Yemen,3
+ZM,Zambia,2
+ZW,Zimbabwe,2
